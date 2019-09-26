@@ -22,7 +22,7 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 3. **T Smith** and B Bookhagen. "Assessing uncertainty and sensor biases in passive microwave data across High Mountain Asia", Remote Sensing of Environment 181 (2016): 174-185. [https://doi.org/10.1016/j.rse.2016.03.037](https://doi.org/10.1016/j.rse.2016.03.037)
 
-2. **T Smith**, B Bookhagen, and F Cannon. "Improving semi-automated glacier mapping with a multi-method approach: applications in central Asia", The Cryosphere 9.5 (2015): 1747-1759. [https://doi.org/10.5194/tc-9-1747-201](https://doi.org/10.5194/tc-9-1747-201)
+2. **T Smith**, B Bookhagen, and F Cannon. "Improving semi-automated glacier mapping with a multi-method approach: applications in central Asia", The Cryosphere 9.5 (2015): 1747-1759. [https://doi.org/10.5194/tc-9-1747-2015](https://doi.org/10.5194/tc-9-1747-2015)
 
 1. W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. "Late Pleistocene Glacial Advances in the Western Tibet Interior", Earth and Planetary Science Letters 381 (2013): 210-221. 
 
