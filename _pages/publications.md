@@ -16,9 +16,9 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 6. **T Smith** and B Bookhagen. "Using passive microwave data to understand spatio-temporal trends and dynamics in snow-water storage in High Mountain Asia", Proc. SPIE 10788, Active and Passive Microwave Remote Sensing for Environmental Monitoring II, 1078806 (9 October 2018) [https://doi.org/10.1117/12.2323827](https://doi.org/10.1117/12.2323827)
 
-5. **T Smith** and B Bookhagen. "Changes in seasonal snow water equivalent distribution in High Mountain Asia (1987 to 2009)'', Science Advances 4 (2018): 1,  [http://doi.org/10.1126/sciadv.1701550](http://doi.org/10.1126/sciadv.1701550)
+5. **T Smith** and B Bookhagen. "Changes in seasonal snow water equivalent distribution in High Mountain Asia (1987 to 2009)'', Science Advances 4 (2018): 1,  [https://doi.org/10.1126/sciadv.1701550](https://doi.org/10.1126/sciadv.1701550)
 
-4. **T Smith**, B Bookhagen, and A Rheinwalt. "Spatio-temporal Patterns of High Mountain Asia's Snowmelt Season Identified with an Automated Snowmelt Detection Algorithm, 1987-2016''. The Cryosphere 11 (2017): 2329-2343, [https://doi.org/10.5194/tc-11-2329-2017](https://doi.org/10.5194/tc-11-2329-2017)
+4. **T Smith**, B Bookhagen, and A Rheinwalt. "Spatio-temporal Patterns of High Mountain Asia's Snowmelt Season Identified with an Automated Snowmelt Detection Algorithm, 1987-2016'', The Cryosphere 11 (2017): 2329-2343, [https://doi.org/10.5194/tc-11-2329-2017](https://doi.org/10.5194/tc-11-2329-2017)
 
 3. **T Smith** and B Bookhagen. "Assessing uncertainty and sensor biases in passive microwave data across High Mountain Asia", Remote Sensing of Environment 181 (2016): 174-185. [https://doi.org/10.1016/j.rse.2016.03.037](https://doi.org/10.1016/j.rse.2016.03.037)
 
@@ -27,7 +27,7 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 1. W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. "Late Pleistocene Glacial Advances in the Western Tibet Interior", Earth and Planetary Science Letters 381 (2013): 210-221. 
 
 ## Technical Reports
-2. **T Smith**. _Climate Vulnerability in Asia's High Mountains: How climate change affects communities and ecosystems in Asia's water towers_. WWF: 2014. [Web Link](http://www.worldwildlife.org/publications/climate-vulnerability-in-asia-s-high-mountains-how-climate-change-affects-communities-and-ecosystems-in-asia-s-water-towers)
+2. **T Smith**. _Climate Vulnerability in Asia's High Mountains: How climate change affects communities and ecosystems in Asia's water towers_. WWF: 2014. [Web Link](https://www.worldwildlife.org/publications/climate-vulnerability-in-asia-s-high-mountains-how-climate-change-affects-communities-and-ecosystems-in-asia-s-water-towers)
 
 1. M Gale, J Kim, H Earle, A Clark, **T Smith**, K Peterson. Open File Report VG09-5 _Bedrock Geologic Map of Charlotte, Vermont_ (Vermont Geologic Survey, 2009)
 
