@@ -23,6 +23,6 @@ I obtained a BA from Middlebury College (Vermont, USA), a MA from UC Santa Barba
 
 **Teaching**
 
-I am involved with the [Remote Sensing, geoInformation, and Visualization}(https://www.uni-potsdam.de/de/mnfakul/studium-und-lehre/master/remote-sensing-geoinformation-and-visualization.html) program, and teach quantitative data analysis courses. A particular focus is on efficiently analysing very large remotely sensed datasets. I use the Python programming language extensively in my teaching and research. 
+I am involved with the [Remote Sensing, geoInformation, and Visualization](https://www.uni-potsdam.de/de/mnfakul/studium-und-lehre/master/remote-sensing-geoinformation-and-visualization.html) program, and teach quantitative data analysis courses. A particular focus is on efficiently analysing very large remotely sensed datasets. I use the Python programming language extensively in my teaching and research. 
 
 
