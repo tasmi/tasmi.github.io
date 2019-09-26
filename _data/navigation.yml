@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Awards & Honors"
+  #   url: /awards/
+
+  #- title: "Talks"
+  #  url: /talks/    
+
+  #- title: "Teaching"
+  #  url: /teaching/    
+    
+  - title: "Research"
+    url: /research/
+        
+  #- title: "Blogs"
+  #  url: /year-archive/
+    
+  - title: "Contact"
+    url: /contact/  
+    
+  # - title: "Guide"
+    # url: /markdown/
