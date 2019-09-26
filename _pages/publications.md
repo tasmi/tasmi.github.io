@@ -29,3 +29,6 @@ W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. ``Late Pleistocene Glaci
 ## Technical Reports
 **T Smith**. _Climate Vulnerability in Asia's High Mountains: How climate change affects communities and ecosystems in Asia's water towers_. WWF: 2014. [Web Link](http://www.worldwildlife.org/publications/climate-vulnerability-in-asia-s-high-mountains-how-climate-change-affects-communities-and-ecosystems-in-asia-s-water-towers)
 M Gale, J Kim, H Earle, A Clark, **T Smith**, K Peterson. Open File Report VG09-5 _Bedrock Geologic Map of Charlotte, Vermont_ (Vermont Geologic Survey, 2009)
+
+
+
