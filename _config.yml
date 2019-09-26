@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taylor Smith / Post Doctoral Researcher in Earth Remote Sensing"
+title                    : "Dr Taylor Smith / Earth Remote Sensing"
 title_separator          : "-"
 name                     : &name "Taylor Smith"
 description              : &description "Earth Remote Sensing"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taylor Smith"
   avatar           : "045-IMG_1594.JPG"
-  bio              : "Remote Sensing"
+  bio              : "Environmental Remote Sensing"
   location         : "Dept. of Geosciences"
   employer         : "University of Potsdam"
   googlescholar    : "https://scholar.google.com/citations?user=RlDWFDsAAAAJ"
