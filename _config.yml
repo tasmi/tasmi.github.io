@@ -49,6 +49,8 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+  
 # SEO Related
 google_site_verification :
 bing_site_verification   :
