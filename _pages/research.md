@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-Please note -- this page is under construction
-
 ## Current Projects
+
+I am currently associated with the [ORYCS](https://www.orycs.org/) team, where my work focuses on supporting a set of ecologic field and modelling studies. I am particularly interested in vegetation dynamics, soil moisture, and potential long-term changes in water availability. My work in Namibia uses a combination of field and remotely sensed data. 
+
+I am also interested in studying landscape-vegetation interactions on a larger scale -- for instance, how do feedbacks between vegetation and slope stability contribute to the long-term development of landscape form? For this work, I take advantage of very high resolution vegetation and topographic datasets, and use statistical techniques to study subtle signals in large and noisy datasets. 
 
 ## Doctoral Work
 
-My doctoral work in Potsdam continued the focus on High Mountain Asia. I worked with passive microwave data to explore climate-related changes in snow cover, depth, and the timing and magnitude of snowfall seasonality. This work resulted in three papers, listed on my [Research](https://tasmi.github.io/research/) page. 
+My doctoral work in Potsdam continued the focus on High Mountain Asia. I worked with passive microwave data to explore climate-related changes in snow cover, depth, and the timing and magnitude of snowfall seasonality. This work resulted in three papers, listed on my [Publications](https://tasmi.github.io/publications/) page. 
 
 Thesis: **Smith, T** (2018) - Decadal changes in the snow regime of High Mountain Asia, 1987-2016, _Doctoral Thesis, Universit\"at Potsdam, 142. pp_. (Advisor: Bodo Bookhagen) [https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/year/2018/docId/40712](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/year/2018/docId/40712)
 
