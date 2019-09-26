@@ -11,6 +11,11 @@ Please note -- this page is under construction
 
 ## Doctoral Work
 
+My doctoral work in Potsdam continued the focus on High Mountain Asia. I worked with passive microwave data to explore climate-related changes in snow cover, depth, and the timing and magnitude of snowfall seasonality. This work resulted in three papers, listed on my [Research](https://tasmi.github.io/research/) page. 
+
+Thesis: **Smith, T** (2018) - Decadal changes in the snow regime of High Mountain Asia, 1987-2016, _Doctoral Thesis, Universit\"at Potsdam, 142. pp_. (Advisor: Bodo Bookhagen) [https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/year/2018/docId/40712](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/year/2018/docId/40712)
+
+
 ## Masters Work
 
 My Masters work at UC Santa Barbara focused on mapping glaciers in Central Asia. This resulted in one peer-reviewed publication [link](https://doi.org/10.5194/tc-9-1747-201) detailing an algorithm for semi-automatically mapping glacier outlines.
