@@ -19,7 +19,7 @@ My research is focused on using high spatial and temporal resolution empirical a
 
 **Scientific Background**
 
-I obtained a BA from Middlebury College (Vermont, USA), a MA from UC Santa Barbara (California, USA) and a Doctorate from Universit&auml;t Potsdam (Germany). Details of my publications can be found on my [publications](https://tasmi.github.io/publications) page. 
+I obtained a BA from Middlebury College (Vermont, USA), a MA from UC Santa Barbara (California, USA) and a Doctorate from Universit&auml;t Potsdam (Germany). Details of my publications can be found on my [Publications](https://tasmi.github.io/publications) page. 
 
 **Teaching**
 
