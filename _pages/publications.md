@@ -8,7 +8,7 @@ See also: [Google Scholar Profile](https://scholar.google.com/citations?user=RlD
 
 ## Peer reviewed Book chapters
 
-**T. Smith** and B Bookhagen. ``Chapter 7: Remotely sensed rain and snowfall in the Himalaya''. in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
+1. **T. Smith** and B Bookhagen. ``Chapter 7: Remotely sensed rain and snowfall in the Himalaya''. in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
 
 ## Peer reviewed Journal Articles
 
@@ -27,9 +27,9 @@ See also: [Google Scholar Profile](https://scholar.google.com/citations?user=RlD
 1. W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. ``Late Pleistocene Glacial Advances in the Western Tibet Interior", Earth and Planetary Science Letters 381 (2013): 210-221. 
 
 ## Technical Reports
-**T Smith**. _Climate Vulnerability in Asia's High Mountains: How climate change affects communities and ecosystems in Asia's water towers_. WWF: 2014. [Web Link](http://www.worldwildlife.org/publications/climate-vulnerability-in-asia-s-high-mountains-how-climate-change-affects-communities-and-ecosystems-in-asia-s-water-towers)
+2. **T Smith**. _Climate Vulnerability in Asia's High Mountains: How climate change affects communities and ecosystems in Asia's water towers_. WWF: 2014. [Web Link](http://www.worldwildlife.org/publications/climate-vulnerability-in-asia-s-high-mountains-how-climate-change-affects-communities-and-ecosystems-in-asia-s-water-towers)
 
-M Gale, J Kim, H Earle, A Clark, **T Smith**, K Peterson. Open File Report VG09-5 _Bedrock Geologic Map of Charlotte, Vermont_ (Vermont Geologic Survey, 2009)
+1. M Gale, J Kim, H Earle, A Clark, **T Smith**, K Peterson. Open File Report VG09-5 _Bedrock Geologic Map of Charlotte, Vermont_ (Vermont Geologic Survey, 2009)
 
 
 
