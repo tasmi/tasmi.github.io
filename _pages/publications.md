@@ -8,7 +8,7 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 ## Peer reviewed Book chapters
 
-1. **T. Smith** and B Bookhagen. "Chapter 7: Remotely sensed rain and snowfall in the Himalaya''. in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
+1. **T. Smith** and B Bookhagen. "Chapter 7: Remotely sensed rain and snowfall in the Himalaya'', in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
 
 ## Peer reviewed Journal Articles
 
