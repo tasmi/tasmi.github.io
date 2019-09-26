@@ -20,7 +20,7 @@ Thesis: **Smith, T** (2018) - Decadal changes in the snow regime of High Mountai
 
 My Masters work at UC Santa Barbara focused on mapping glaciers in Central Asia. This resulted in one peer-reviewed publication [link](https://doi.org/10.5194/tc-9-1747-201) detailing an algorithm for semi-automatically mapping glacier outlines.
 
-Thesis: **Smith, T (2014) - Glacial Response to Climate Change in the Tien Shan Mountain Range of Central Asia, _Masters Thesis, UC Santa Barbara, 116. pp_. (Advisor: Bodo Bookhagen) [https://escholarship.org/uc/item/3s21n2gc](https://escholarship.org/uc/item/3s21n2gc)
+Thesis: **Smith, T** (2014) - Glacial Response to Climate Change in the Tien Shan Mountain Range of Central Asia, _Masters Thesis, UC Santa Barbara, 116. pp_. (Advisor: Bodo Bookhagen) [https://escholarship.org/uc/item/3s21n2gc](https://escholarship.org/uc/item/3s21n2gc)
 
 ## Undergraduate Work
 
