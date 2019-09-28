@@ -16,11 +16,7 @@ excerpt: ""
 
 **Research Themes**
 
-My research is focused on using high spatial and temporal resolution empirical and modelled datasets to understand earth-surface processes. I am both a geologist and geographer by training, and spatial analysis plays a large role in all of my research. I am particularly interested in the impacts of short- and long-term climate changes, and feedback loops between vegetation, water, and topography. More details of current and past research projects can be found on my [Research](https://tasmi.github.io/research/) page.
-
-**Scientific Background**
-
-I obtained a BA from Middlebury College (Vermont, USA), a MA from UC Santa Barbara (California, USA) and a Doctorate from Universit&auml;t Potsdam (Germany). Details of my publications can be found on my [Publications](https://tasmi.github.io/publications) page. 
+My research is focused on using high spatial and temporal resolution empirical and modelled datasets to understand earth-surface processes. I am both a geologist and geographer by training, and spatial analysis plays a large role in all of my research. I am particularly interested in the impacts of short- and long-term climate changes, and feedback loops between vegetation, water, and topography. More details of current and past research projects can be found on my [Research](https://tasmi.github.io/research/) and [Publications](https://tasmi.github.io/publications) pages.
 
 **Teaching**
 
