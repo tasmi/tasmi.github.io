@@ -10,13 +10,12 @@ title: "Environmental Remote Sensing"
 header:
   overlay_image: https://tasmi.github.io/images/008-IMG_1452.JPG
   overlay_filter: 0.5
-  caption: "Western Norway by [Taylor Smith](https://tasmi.github.io/)"
 excerpt: ""
 ---
 
 **Research Themes**
 
-My research is focused on using high spatial and temporal resolution empirical and modelled datasets to understand earth-surface processes. I am both a geologist and geographer by training, and spatial analysis plays a large role in all of my research. I am particularly interested in the impacts of short- and long-term climate changes, and feedback loops between vegetation, water, and topography. More details of current and past research projects can be found on my [Research](https://tasmi.github.io/research/) and [Publications](https://tasmi.github.io/publications) pages.
+My research is focused on using high spatial and temporal resolution empirical and modelled datasets to understand earth-surface processes. I am both a geologist and geographer by training, and spatial analysis plays a large role in all of my research. I am particularly interested in the impacts of short- and long-term climate changes, and feedback loops between vegetation, water, and topography. I am currently a member of the [Remote Sensing and Earth-Surface Processes](https://up-rs-esp.uni-potsdam.de/) team at the Universtity of Potsdam. More details of current and past research projects can be found on my [Research](https://tasmi.github.io/research/) and [Publications](https://tasmi.github.io/publications) pages.
 
 **Teaching**
 
