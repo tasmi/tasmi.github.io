@@ -11,7 +11,7 @@ I am currently associated with the [ORYCS](https://www.orycs.org/) team, where m
 
 I am also interested in studying landscape-vegetation interactions on a larger scale -- for instance, how do feedbacks between vegetation and slope stability contribute to the long-term development of topography? For this work, I take advantage of very high resolution vegetation and topographic datasets, and use statistical techniques to study subtle signals in large and noisy datasets. 
 
-Finally, I am in the process of re-analyzing new, higher-resolution passive microwave data for High Mountain Asia with the goal of producing updated estimates of snow depth and changes in the cyrosphere over the past ~30 years, both following on [previous methodologies](https://doi.org/10.1126/sciadv.1701550) and developping new ones. 
+Finally, I am in the process of re-analyzing new, higher-resolution passive microwave data for High Mountain Asia with the goal of producing updated estimates of snow depth and changes in the cyrosphere over the past ~30 years, both following on [previous methodologies](https://doi.org/10.1126/sciadv.1701550) and developing new ones. 
 
 ## Doctoral Work
 
