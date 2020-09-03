@@ -12,6 +12,8 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 ## Peer reviewed Journal Articles
 
+8. **T Smith** and Bookhagen B. "Assessing Multi-Temporal Snow-Volume Trends in High Mountain Asia From 1987 to 2016 Using High-Resolution Passive Microwave Data." Front. Earth Sci. (2020) 8:559175. [https://doi.org/10.3389/feart.2020.559175](https://doi.org/10.3389/feart.2020.559175)
+
 7. **T Smith**, A Rheinwalt, and B Bookhagen. "Determining the Optimal Grid Resolution for Topographic Analysis on an Airborne Lidar Dataset'', Earth Surface Dynamics 7 (2019): 475-489 [https://doi.org/10.5194/esurf-7-475-2019](https://doi.org/10.5194/esurf-7-475-2019)
 
 6. **T Smith** and B Bookhagen. "Using passive microwave data to understand spatio-temporal trends and dynamics in snow-water storage in High Mountain Asia", Proc. SPIE 10788, Active and Passive Microwave Remote Sensing for Environmental Monitoring II, 1078806 (9 October 2018) [https://doi.org/10.1117/12.2323827](https://doi.org/10.1117/12.2323827)
