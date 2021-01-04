@@ -12,7 +12,9 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 ## Peer reviewed Journal Articles
 
-8. **T Smith** and Bookhagen B. "Assessing Multi-Temporal Snow-Volume Trends in High Mountain Asia From 1987 to 2016 Using High-Resolution Passive Microwave Data." Front. Earth Sci. (2020) 8:559175. [https://doi.org/10.3389/feart.2020.559175](https://doi.org/10.3389/feart.2020.559175)
+9. **T Smith**, & B. Bookhagen. (2020). Climatic and Biotic Controls on Topographic Asymmetry at the Global Scale. Journal of Geophysical Research: Earth Surface, 125, e2020JF005692. [https://doi.org/10.1029/2020JF005692](https://doi.org/10.1029/2020JF005692)
+
+8. **T Smith** and B. Bookhagen. "Assessing Multi-Temporal Snow-Volume Trends in High Mountain Asia From 1987 to 2016 Using High-Resolution Passive Microwave Data." Front. Earth Sci. (2020) 8:559175. [https://doi.org/10.3389/feart.2020.559175](https://doi.org/10.3389/feart.2020.559175)
 
 7. **T Smith**, A Rheinwalt, and B Bookhagen. "Determining the Optimal Grid Resolution for Topographic Analysis on an Airborne Lidar Dataset'', Earth Surface Dynamics 7 (2019): 475-489 [https://doi.org/10.5194/esurf-7-475-2019](https://doi.org/10.5194/esurf-7-475-2019)
 
