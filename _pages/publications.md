@@ -31,6 +31,7 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 1 | W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. "Late Pleistocene Glacial Advances in the Western Tibet Interior", Earth and Planetary Science Letters 381 (2013): 210-221. 
 
 ## Technical Reports
+
 2 | **T Smith**. _Climate Vulnerability in Asia's High Mountains: How climate change affects communities and ecosystems in Asia's water towers_. WWF: 2014. [Web Link](https://www.worldwildlife.org/publications/climate-vulnerability-in-asia-s-high-mountains-how-climate-change-affects-communities-and-ecosystems-in-asia-s-water-towers)
 
 1 | M Gale, J Kim, H Earle, A Clark, **T Smith**, K Peterson. Open File Report VG09-5 _Bedrock Geologic Map of Charlotte, Vermont_ (Vermont Geologic Survey, 2009)
