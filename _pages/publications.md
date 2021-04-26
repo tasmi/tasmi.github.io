@@ -8,7 +8,7 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 ## Peer Reviewed Book chapters
 
-1 | **T. Smith** and B Bookhagen. "Chapter 7: Remotely sensed rain and snowfall in the Himalaya'', in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
+1 | **T Smith** and B Bookhagen. "Chapter 7: Remotely sensed rain and snowfall in the Himalaya'', in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
 
 ## Peer Reviewed Journal Articles
 
@@ -16,9 +16,9 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 10 | **T Smith**, A Rheinwalt, and B Bookhagen. "Topography and Climate in the Upper Indus Basin: Mapping Elevation-Snow Cover Relationships." Science of the Total Environment (_Accepted April 2021_). 
 
-9 | **T Smith**, & B Bookhagen. (2020). "Climatic and Biotic Controls on Topographic Asymmetry at the Global Scale." Journal of Geophysical Research: Earth Surface, 125, e2020JF005692. [https://doi.org/10.1029/2020JF005692](https://doi.org/10.1029/2020JF005692)
+9 | **T Smith** and B Bookhagen. (2020). "Climatic and Biotic Controls on Topographic Asymmetry at the Global Scale." Journal of Geophysical Research: Earth Surface, 125, e2020JF005692. [https://doi.org/10.1029/2020JF005692](https://doi.org/10.1029/2020JF005692)
 
-8 | **T Smith** and B. Bookhagen. "Assessing Multi-Temporal Snow-Volume Trends in High Mountain Asia From 1987 to 2016 Using High-Resolution Passive Microwave Data." Front. Earth Sci. (2020) 8:559175. [https://doi.org/10.3389/feart.2020.559175](https://doi.org/10.3389/feart.2020.559175)
+8 | **T Smith** and B Bookhagen. "Assessing Multi-Temporal Snow-Volume Trends in High Mountain Asia From 1987 to 2016 Using High-Resolution Passive Microwave Data." Front. Earth Sci. (2020) 8:559175. [https://doi.org/10.3389/feart.2020.559175](https://doi.org/10.3389/feart.2020.559175)
 
 7 | **T Smith**, A Rheinwalt, and B Bookhagen. "Determining the Optimal Grid Resolution for Topographic Analysis on an Airborne Lidar Dataset'', Earth Surface Dynamics 7 (2019): 475-489 [https://doi.org/10.5194/esurf-7-475-2019](https://doi.org/10.5194/esurf-7-475-2019)
 
@@ -42,7 +42,7 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 ## Data and Software
 
-5 | **T Smith** and Bodo Bookhagen. (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
+5 | **T Smith** and B Bookhagen. (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
 
 4 | **T Smith** (2020). Hillslope Asymmetry: Initial Release. Zenodo. []https://doi.org/10.5281/zenodo.3839251](https://doi.org/10.5281/zenodo.3839251)	
 
