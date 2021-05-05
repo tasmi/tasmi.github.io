@@ -42,6 +42,8 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 ## Data and Software
 
+6 | **T Smith** and B Bookhagen. (2021). Elevation-Snow Clusters for Glaciers and Watersheds in the Upper Indus Basin Region (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4469473](https://doi.org/10.5281/zenodo.4469473)
+
 5 | **T Smith** and B Bookhagen. (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
 
 4 | **T Smith** (2020). Hillslope Asymmetry: Initial Release. Zenodo. []https://doi.org/10.5281/zenodo.3839251](https://doi.org/10.5281/zenodo.3839251)	
