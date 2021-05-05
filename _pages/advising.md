@@ -12,7 +12,7 @@ As part of the [Remote Sensing, geoInformation, and Visualization](https://www.u
 
 3 | Kittipon Wutthimetheekul (Msc Thesis): Detection and analysis of flooding areas by using Sentinal-1 data in a part of the lower Chao-phraya river basin (Thailand)
 
-2 | Ariane M\"{u}ting (MSc Thesis): Generating high-resolution DEMs from tri-stereo satellite imagery: A geomorphologic case study in the Quebrada del Toro, NW Argentina
+2 | Ariane Müting (MSc Thesis): Generating high-resolution DEMs from tri-stereo satellite imagery: A geomorphologic case study in the Quebrada del Toro, NW Argentina
 
-1 | Ariane M\"{u}tin}g (BSc Thesis): Classification and spectral unmixing of remote sensing data for the Batura Glacier, Karakoram
+1 | Ariane Müting (BSc Thesis): Classification and spectral unmixing of remote sensing data for the Batura Glacier, Karakoram
 
