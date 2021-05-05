@@ -14,7 +14,7 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 11 | **T Smith**, D Traxl, and N Boers. "Evidence for Global Vegetation Resilience Loss from Long-term Satellite Data." (_in review_)
 
-10 | **T Smith**, A Rheinwalt, and B Bookhagen. "Topography and Climate in the Upper Indus Basin: Mapping Elevation-Snow Cover Relationships." Science of the Total Environment (_Accepted April 2021_). 
+10 | **T Smith**, A Rheinwalt, and B Bookhagen. "Topography and Climate in the Upper Indus Basin: Mapping Elevation-Snow Cover Relationships." Science of The Total Environment, 2021, 147363, ISSN 0048-9697, [https://doi.org/10.1016/j.scitotenv.2021.147363](https://doi.org/10.1016/j.scitotenv.2021.147363)
 
 9 | **T Smith** and B Bookhagen. (2020). "Climatic and Biotic Controls on Topographic Asymmetry at the Global Scale." Journal of Geophysical Research: Earth Surface, 125, e2020JF005692. [https://doi.org/10.1029/2020JF005692](https://doi.org/10.1029/2020JF005692)
 
