@@ -46,7 +46,7 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAA
 
 5 | **T Smith** and B Bookhagen. (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
 
-4 | **T Smith** (2020). Hillslope Asymmetry: Initial Release. Zenodo. []https://doi.org/10.5281/zenodo.3839251](https://doi.org/10.5281/zenodo.3839251)	
+4 | **T Smith** (2020). Hillslope Asymmetry: Initial Release. Zenodo. [https://doi.org/10.5281/zenodo.3839251](https://doi.org/10.5281/zenodo.3839251)	
 
 3 | **T Smith** and Bodo Bookhagen. (2020). Snow Variables for High Mountain Asia (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.3898517](http://doi.org/10.5281/zenodo.3898517)
 
