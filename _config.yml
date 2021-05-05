@@ -183,6 +183,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  advising:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
