@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Taylor Smith / Earth Remote Sensing"
+title                    : "Dr Taylor Smith / Environmental Remote Sensing"
 title_separator          : "-"
 name                     : &name "Taylor Smith"
-description              : &description "Earth Remote Sensing"
+description              : &description "Environmental Remote Sensing"
 url                      : https://tasmi.github.io
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "tasmi/tasmi.github.io"
