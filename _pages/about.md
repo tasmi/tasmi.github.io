@@ -13,9 +13,9 @@ header:
 excerpt: ""
 ---
 
-**Research Themes**
+**Research**
 
-My research is focused on using high spatial and temporal resolution empirical and modelled datasets to understand earth-surface processes. I am both a geologist and geographer by training, and spatial analysis plays a large role in all of my research. I am particularly interested in the impacts of short- and long-term climate changes, and feedback loops between vegetation, water, and topography. I am currently a member of the [Remote Sensing and Earth-Surface Processes](https://up-rs-esp.uni-potsdam.de/) team at the University of Potsdam. More details of my current and past research projects can be found on my [Research](https://tasmi.github.io/research/) and [Publications](https://tasmi.github.io/publications) pages.
+My research is focused on using high spatial and temporal resolution empirical and modelled datasets to understand earth-surface processes. I am both a geologist and a geographer by training, and spatial analysis plays a large role in all of my research. I am particularly interested in the impacts of short- and long-term climate changes, as well as feedback loops between vegetation, water, and topography. I am currently a member of the [Remote Sensing and Earth-Surface Processes](https://up-rs-esp.uni-potsdam.de/) team at the University of Potsdam. More details of my current and past research projects can be found on my [Research](https://tasmi.github.io/research/) and [Publications](https://tasmi.github.io/publications) pages.
 
 **Teaching**
 
