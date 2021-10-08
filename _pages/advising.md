@@ -8,6 +8,8 @@ As part of the [Remote Sensing, geoInformation, and Visualization](https://www.u
 
 ## Student Theses
 
+5 | Farid Atmani (MSc Thesis): Canopy height estimation of the Namibian Savanna Forest with ICESat-2 and GEDI missions
+
 4 | Toni Schmidt (MSc Thesis): Theoretical Potential of Former, Present, and Hypothetical Optical Spaceborne Sensors for the Differentiation of Plastics Using Hyperspectral Analysis
 
 3 | Kittipon Wutthimetheekul (Msc Thesis): Detection and analysis of flooding areas by using Sentinal-1 data in a part of the lower Chao-phraya river basin (Thailand)
