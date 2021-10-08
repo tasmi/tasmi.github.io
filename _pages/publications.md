@@ -3,7 +3,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-See also: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAAJ), 
+
+I maintain a set of freely available [Google Earth Engine codes](https://github.com/tasmi/earthengine_code_snippets) written in Python for data pre-processing and analysis tasks.
+
+For further research profiles, see my: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAAJ), 
 [ResearchGate](https://www.researchgate.net/profile/Taylor_Smith48), and [ORCID](https://orcid.org/0000-0002-6763-7204)
 
 ## Peer Reviewed Book chapters
