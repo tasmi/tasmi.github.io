@@ -33,7 +33,7 @@ For further research profiles, see my: [Google Scholar](https://scholar.google.c
 
 2 | **T Smith**, B Bookhagen, and F Cannon. "Improving semi-automated glacier mapping with a multi-method approach: applications in central Asia", The Cryosphere 9.5 (2015): 1747-1759. [https://doi.org/10.5194/tc-9-1747-2015](https://doi.org/10.5194/tc-9-1747-2015)
 
-1 | W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. "Late Pleistocene Glacial Advances in the Western Tibet Interior", Earth and Planetary Science Letters 381 (2013): 210-221. 
+1 | W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. "Late Pleistocene Glacial Advances in the Western Tibet Interior", Earth and Planetary Science Letters 381 (2013): 210-221. [https://doi.org/10.1016/j.epsl.2013.08.041](https://doi.org/10.1016/j.epsl.2013.08.041)
 
 ## Technical Reports
 
