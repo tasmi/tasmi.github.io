@@ -4,9 +4,11 @@ permalink: /advising/
 author_profile: true
 ---
 
-As part of the [Remote Sensing, geoInformation, and Visualization](https://www.uni-potsdam.de/de/mnfakul/studium-und-lehre/master/remote-sensing-geoinformation-and-visualization.html) Masters program, I advise student theses. If you have an interesting project that you would like to collaborate on, please get in touch! 
+As part of the [Remote Sensing, geoInformation, and Visualization](https://up-rs-esp.github.io/msc-rsiv/) Masters program, I advise student theses. If you have an interesting project that you would like to collaborate on, please get in touch! 
 
 ## Student Theses
+
+6 | Gittu Thampi (2022, MSc Thesis): Mapping Glacial Lakes from the Combined Use of Synthetic-Aperture Radar and Optical Satellite Images through Deep Learning
 
 5 | Farid Atmani (2021, MSc Thesis): Canopy height estimation of the Namibian Savanna Forest with ICESat-2 and GEDI missions
 

@@ -19,4 +19,4 @@ My research is focused on using high spatial and temporal resolution empirical a
 
 **Teaching**
 
-I am involved with the [Remote Sensing, geoInformation, and Visualization](https://www.uni-potsdam.de/de/mnfakul/studium-und-lehre/master/remote-sensing-geoinformation-and-visualization.html) Masters program at the University of Potsdam, and teach quantitative data analysis and remote sensing courses. A particular focus is on efficiently analysing very large remotely sensed datasets. I use the Python programming language extensively in my teaching and research. 
+I am involved with the [Remote Sensing, geoInformation, and Visualization](https://up-rs-esp.github.io/msc-rsiv/) Masters program at the University of Potsdam, and teach quantitative data analysis and remote sensing courses. A particular focus is on efficiently analysing very large remotely sensed datasets. I use the Python programming language extensively in my teaching and research. 
