@@ -22,7 +22,7 @@ redirect_from:
 ## Awards, Honors, and Certifications
 
 |:----:|:--------:|
-| 2021 | International Teaching Professional Certification [link](https://www.uni-potsdam.de/de/pogs/career-development/teaching-professionals/international-teaching-professionals) |
+| 2021 | International Teaching Professional [Certification](https://www.uni-potsdam.de/de/pogs/career-development/teaching-professionals/international-teaching-professionals) |
 | 2018 | Michelson Prize for the best doctoral thesis of the year in the Math and Science Faculty at Universität Potsdam |
 | 2018 | Universität Potsdam Prize for Excellence in Teaching, awarded for excellent teaching at the graduate level |
 | 2014 | University of California: Santa Barbara Excellence in Teaching Award |
