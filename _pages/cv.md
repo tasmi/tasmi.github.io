@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,5 +18,13 @@ redirect_from:
 | 2012 -- 2014 | MA Candidate and Teaching Assistant, Geography Dept., UC Santa Barbara |
 | 2011 -- 2012 | GIS Analyst, Tetra Tech ARD, Burlington VT |
 | 2009 -- 2011 | Undergraduate Research and Teaching Assistant, Middlebury College, Middlebury VT |
+
+## Awards, Honors, and Certifications
+
+|:----:|:--------:|
+| 2021 | International Teaching Professional Certification [link](https://www.uni-potsdam.de/de/pogs/career-development/teaching-professionals/international-teaching-professionals) |
+| 2018 | Michelson Prize for the best doctoral thesis of the year in the Math and Science Faculty at Universität Potsdam |
+| 2018 | Universität Potsdam Prize for Excellence in Teaching, awarded for excellent teaching at the graduate level |
+| 2014 | University of California: Santa Barbara Excellence in Teaching Award |
 
 For further information, please see here: [CV](http://tasmi.github.io/pdf/smith_cv.pdf).
