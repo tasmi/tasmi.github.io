@@ -11,7 +11,9 @@ I am currently associated with the [ORYCS](https://www.orycs.org/) team, where m
 
 I am also interested in studying landscape-vegetation interactions on a larger scale -- for instance, how do feedbacks between vegetation and slope stability contribute to the long-term development of [topography](https://doi.org/10.1029/2020JF005692)? For this work, I take advantage of very high resolution vegetation and topographic datasets, and use statistical techniques to study subtle signals in large and noisy datasets. 
 
-Finally, I am in the process of re-analyzing new, higher-resolution passive microwave data for High Mountain Asia with the goal of producing [updated estimates](https://doi.org/10.3389/feart.2020.559175) of snow depth and changes in the cyrosphere over the past ~30 years, both following on [previous methodologies](https://doi.org/10.1126/sciadv.1701550) and developing [new ones](https://doi.org/10.1016/j.scitotenv.2021.147363). 
+I have several ongoing research projects based on high-resolution passive microwave data for High Mountain Asia with the goal of producing [updated estimates](https://doi.org/10.3389/feart.2020.559175) of snow depth and changes in the cyrosphere over the past ~30 years, both following on [previous](https://doi.org/10.1126/sciadv.1701550) [methodologies](https://doi.org/10.1126/sciadv.1701550) and developing [new ones](https://doi.org/10.1016/j.scitotenv.2021.147363) based on novel clustering techniques for dealing with high-dimensional topographic and climatic data.
+
+Finally, I work on understanding global-scale vegetation and ecoystem health with researchers from the (Potsdam Institude for Climate Impact Research)[https://www.pik-potsdam.de/en/home]. This includes quantifying human impacts, assessing ecosystem resilience, and mapping the spatial and temporal distribution of rapid shocks such as wildfires.
 
 ## Doctoral Work
 
