@@ -20,3 +20,7 @@ My research is focused on using high spatial and temporal resolution empirical a
 **Teaching**
 
 I am involved with the [Remote Sensing, geoInformation, and Visualization](https://up-rs-esp.github.io/msc-rsiv/) Masters program at the University of Potsdam, and teach quantitative data analysis and remote sensing courses. A particular focus is on efficiently analysing very large remotely sensed datasets. I use the Python programming language extensively in my teaching and research. 
+
+**Software** 
+
+I aim to make all of my publication software open-source (see [here](https://tasmi.github.io/publications/)), and maintain some useful code snippets on [github](https://github.com/tasmi). In particular I maintain a constantly updated set of codes for Google Earth Engine, which I use extensively in my research and teaching. 
