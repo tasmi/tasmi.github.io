@@ -31,10 +31,10 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Data and Software
 
-6 | **T Smith** and B Bookhagen. (2021). Elevation-Snow Clusters for Glaciers and Watersheds in the Upper Indus Basin Region (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4469473](https://doi.org/10.5281/zenodo.4469473)
-5 | **T Smith** and B Bookhagen. (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
+6 | **T Smith** and B Bookhagen (2021). Elevation-Snow Clusters for Glaciers and Watersheds in the Upper Indus Basin Region (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4469473](https://doi.org/10.5281/zenodo.4469473)
+5 | **T Smith** and B Bookhagen (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
 4 | **T Smith** (2020). Hillslope Asymmetry: Initial Release. Zenodo. [https://doi.org/10.5281/zenodo.3839251](https://doi.org/10.5281/zenodo.3839251)	
-3 | **T Smith** and Bodo Bookhagen. (2020). Snow Variables for High Mountain Asia (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.3898517](http://doi.org/10.5281/zenodo.3898517)
-2 | **T Smith**, A Rheinwalt, and B Bookhagen (2019): TopoMetricUncertainty - Calculating Topographic Metric Uncertainty and Optimal Grid Resolution. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2019.017](https://doi.org/10.5880/fidgeo.2019.017)
-1 | **T Smith** and B Bookhagen (2017): Snowmelt Parameters, 1987-2016, High Mountain Asia. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2017.006](https://doi.org/10.5880/fidgeo.2017.006)
+3 | **T Smith** and Bodo Bookhagen (2020). Snow Variables for High Mountain Asia (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.3898517](http://doi.org/10.5281/zenodo.3898517)
+2 | **T Smith**, A Rheinwalt, and B Bookhagen (2019). TopoMetricUncertainty - Calculating Topographic Metric Uncertainty and Optimal Grid Resolution. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2019.017](https://doi.org/10.5880/fidgeo.2019.017)
+1 | **T Smith** and B Bookhagen (2017). Snowmelt Parameters, 1987-2016, High Mountain Asia. V. 1.0. GFZ Data Services. [https://doi.org/10.5880/fidgeo.2017.006](https://doi.org/10.5880/fidgeo.2017.006)
 
