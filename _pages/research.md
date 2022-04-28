@@ -13,7 +13,7 @@ I am also interested in studying landscape-vegetation interactions on a larger s
 
 I have several ongoing research projects based on high-resolution passive microwave data for High Mountain Asia with the goal of producing [updated estimates](https://doi.org/10.3389/feart.2020.559175) of snow depth and changes in the cyrosphere over the past ~30 years, both following on [previous](https://doi.org/10.1126/sciadv.1701550) [methodologies](https://doi.org/10.1126/sciadv.1701550) and developing [new ones](https://doi.org/10.1016/j.scitotenv.2021.147363) based on novel clustering techniques for dealing with high-dimensional topographic and climatic data.
 
-Finally, I work on understanding global-scale vegetation and ecoystem health with researchers from the [Potsdam Institude for Climate Impact Research](https://www.pik-potsdam.de/en/home). This includes quantifying human impacts, assessing ecosystem resilience, and mapping the spatial and temporal distribution of rapid shocks such as wildfires.
+Finally, I work on understanding global-scale vegetation and ecoystem health with researchers from the [Potsdam Institude for Climate Impact Research](https://www.pik-potsdam.de/en/home). This includes quantifying human impacts, [assessing ecosystem resilience](https://doi.org/10.1038/s41558-022-01352-2), and mapping the spatial and temporal distribution of rapid shocks such as wildfires.
 
 ## Doctoral Work
 
