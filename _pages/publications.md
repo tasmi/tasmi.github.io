@@ -32,6 +32,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Data and Software
 
+7 | **T Smith**, D Traxl, and N Boers. (2022). Empirical evidence for recent global shifts in vegetation resilience (1.0). Zenodo. [https://doi.org/10.5281/zenodo.5816934](https://doi.org/10.5281/zenodo.5816934)
 6 | **T Smith** and B Bookhagen (2021). Elevation-Snow Clusters for Glaciers and Watersheds in the Upper Indus Basin Region (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4469473](https://doi.org/10.5281/zenodo.4469473)
 5 | **T Smith** and B Bookhagen (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
 4 | **T Smith** (2020). Hillslope Asymmetry: Initial Release. Zenodo. [https://doi.org/10.5281/zenodo.3839251](https://doi.org/10.5281/zenodo.3839251)	
