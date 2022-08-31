@@ -34,7 +34,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 1 | M Gale, J Kim, H Earle, A Clark, **T Smith**, K Peterson. Open File Report VG09-5 _Bedrock Geologic Map of Charlotte, Vermont_ (Vermont Geologic Survey, 2009)
 
 ## Data and Software
-
+8 | **T Smith** and N Boers. (2022). Reliability of Resilience Estimation based on Multi-Instrument Time Series (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7009414](https://doi.org/10.5281/zenodo.7009414)
 7 | **T Smith**, D Traxl, and N Boers. (2022). Empirical evidence for recent global shifts in vegetation resilience (1.0). Zenodo. [https://doi.org/10.5281/zenodo.5816934](https://doi.org/10.5281/zenodo.5816934)
 6 | **T Smith** and B Bookhagen (2021). Elevation-Snow Clusters for Glaciers and Watersheds in the Upper Indus Basin Region (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4469473](https://doi.org/10.5281/zenodo.4469473)
 5 | **T Smith** and B Bookhagen (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
