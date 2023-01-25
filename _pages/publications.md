@@ -14,7 +14,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 ## Peer Reviewed Journal Articles
 
 15 | **T Smith**, R.-M. Zotta, C. A. Boulton, T. M. Lenton, W. Dorigo, and N. Boers: "Reliability of Resilience Estimation based on Multi-Instrument Time Series", Earth Syst. Dynam. Discuss. [preprint], [https://doi.org/10.5194/esd-2022-41](https://doi.org/10.5194/esd-2022-41), in review, 2023. 
-14 | **T Smith** and N Boers. ``Global vegetation resilience linked to water availability and variability'', Nature Communications (accepted). [10.1038/s41467-023-36207-7](10.1038/s41467-023-36207-7)
+14 | **T Smith** and N Boers. ``Global vegetation resilience linked to water availability and variability'', Nature Communications (accepted). 10.1038/s41467-023-36207-7
 13 | **T Smith**, D Traxl, and N Boers. "Empirical evidence for recent global shifts in vegetation resilience." Nature Climate Change (2022). [https://doi.org/10.1038/s41558-022-01352-2](https://www.nature.com/articles/s41558-022-01352-2)
 12 | R Hering, M Hauptfleisch, M Jago, **T Smith**, S Kramer-Schadt, J Stiegler, and N Blaum. ``Don't stop me now: Managed fence gaps could allow migratory ungulates to track dynamic resources and reduce fence related energy loss." Frontiers in Ecology and Evolution. (2022).[https://doi.org/10.3389/fevo.2022.907079](https://doi.org/10.3389/fevo.2022.907079)
 11 | F Atmani, B Bookhagen, **T Smith**. "Measuring Vegetation Heights and Their Seasonal Changes in the Western Namibian Savanna Using Spaceborne Lidars." Remote Sensing 14, 2928. (2022). [https://doi.org/10.3390/rs14122928](https://doi.org/10.3390/rs14122928)
