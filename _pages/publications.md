@@ -36,6 +36,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Data and Software
 
+9 | **T Smith** and N Boers. (2023). Global Vegetation Resilience Linked to Water Availability and Variability (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7436669](https://doi.org/10.5281/zenodo.7436669)
 8 | **T Smith** and N Boers. (2022). Reliability of Resilience Estimation based on Multi-Instrument Time Series (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7009414](https://doi.org/10.5281/zenodo.7009414)
 7 | **T Smith**, D Traxl, and N Boers. (2022). Empirical evidence for recent global shifts in vegetation resilience (1.0). Zenodo. [https://doi.org/10.5281/zenodo.5816934](https://doi.org/10.5281/zenodo.5816934)
 6 | **T Smith** and B Bookhagen (2021). Elevation-Snow Clusters for Glaciers and Watersheds in the Upper Indus Basin Region (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4469473](https://doi.org/10.5281/zenodo.4469473)
