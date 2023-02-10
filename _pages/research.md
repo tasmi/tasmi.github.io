@@ -7,13 +7,11 @@ author_profile: true
 
 ## Current Projects
 
-I am currently associated with the [ORYCS](https://www.orycs.org/) team, where my work focuses on supporting a set of field- and modelling-based ecology studies in Namibia. I am particularly interested in vegetation dynamics, soil moisture, and potential long-term changes in water availability. My work in Namibia uses a combination of in-situ and remotely sensed data. 
-
-I am also interested in studying landscape-vegetation interactions on a larger scale -- for instance, how do feedbacks between vegetation and slope stability contribute to the long-term development of [topography](https://doi.org/10.1029/2020JF005692)? For this work, I take advantage of very high resolution vegetation and topographic datasets, and use statistical techniques to study subtle signals in large and noisy datasets. 
+My research focuses on studying how ecosystems are adapting and changing in response to climate, and what kind of feedback loops exist between [topography and natural environments](https://doi.org/10.1029/2020JF005692). My recent work has focused on [assessing ecosystem resilience](https://www.nature.com/articles/s41558-022-01352-2) to ongoing climate shifts. This has involved the development of [new methods](https://doi.org/10.5194/esd-2022-41), as well as looking at broader scale relationships between [water and vegetation](https://doi.org/10.1038/s41467-023-36207-7). 
 
 I have several ongoing research projects based on high-resolution passive microwave data for High Mountain Asia with the goal of producing [updated estimates](https://doi.org/10.3389/feart.2020.559175) of snow depth and changes in the cyrosphere over the past ~30 years, both following on [previous](https://doi.org/10.1126/sciadv.1701550) [methodologies](https://doi.org/10.1126/sciadv.1701550) and developing [new ones](https://doi.org/10.1016/j.scitotenv.2021.147363) based on novel clustering techniques for dealing with high-dimensional topographic and climatic data.
 
-Finally, I work on understanding global-scale vegetation and ecoystem health with researchers from the [Potsdam Institude for Climate Impact Research](https://www.pik-potsdam.de/en/home). This includes quantifying human impacts, [assessing ecosystem resilience](https://www.nature.com/articles/s41558-022-01352-2), and mapping the spatial and temporal distribution of rapid shocks such as wildfires.
+I am currently running my own DFG-funded project which builds upon much of my previous work, particularly that focused on monitoring snow. The "Quantifying the Influence of Snowmelt on River Hydrology in High Mountain Asia (STRIVE)" project focuses on mapping where, when, and how water enters river systems in Nepal. This work will use a combination of GNSS-Reflectometry, satellite data, and in-situ river monitoring. This work will combine my past experience with large-scale snow monitoring in Asia with new methods and techniques for local data collection and analysis. 
 
 ## Doctoral Work
 
