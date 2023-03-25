@@ -15,7 +15,7 @@ I am currently running my own DFG-funded project which builds upon much of my pr
 
 ## Doctoral Work
 
-My doctoral work in Potsdam focused on the entire High Mountain Asia region. I worked with passive microwave data to explore climate-related changes in snow cover, depth, and the timing and magnitude of snowfall seasonality. This work resulted in several papers, listed on my [Publications](https://tasmi.github.io/publications/) page. 
+My doctoral work in Potsdam focused on exploring patterns and trends in snow depth throughout High Mountain Asia region using passive microwave data. This work resulted in several papers, listed on my [Publications](https://tasmi.github.io/publications/) page. 
 
 Thesis: **Smith, T** (2018) - Decadal changes in the snow regime of High Mountain Asia, 1987-2016, _Doctoral Thesis (summa cum laude), Universität Potsdam, 142. pp_. (Advisor: Bodo Bookhagen) [https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/year/2018/docId/40712](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/year/2018/docId/40712)
 
