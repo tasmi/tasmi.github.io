@@ -13,7 +13,8 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Journal Articles
 
-15 | **T Smith**, R.-M. Zotta, C. A. Boulton, T. M. Lenton, W. Dorigo, and N. Boers: "Reliability of Resilience Estimation based on Multi-Instrument Time Series",Earth Syst. Dynam., 14, 173–183, [https://doi.org/10.5194/esd-14-173-2023](https://doi.org/10.5194/esd-14-173-2023), 2023. 
+16 | T Schmidt, T Kuester, **T Smith**, and M Bochow. "Potential of Optical Spaceborne Sensors for the Differentiation of Plastics in the Environment", Remote Sensing [accepted].
+15 | **T Smith**, R.-M. Zotta, C. A. Boulton, T. M. Lenton, W. Dorigo, and N. Boers. "Reliability of Resilience Estimation based on Multi-Instrument Time Series", Earth Syst. Dynam., 14, 173–183, [https://doi.org/10.5194/esd-14-173-2023](https://doi.org/10.5194/esd-14-173-2023), 2023. 
 14 | **T Smith** and N Boers. "Global vegetation resilience linked to water availability and variability." Nature Communications 14, 498 (2023). [https://doi.org/10.1038/s41467-023-36207-7](https://doi.org/10.1038/s41467-023-36207-7)
 13 | **T Smith**, D Traxl, and N Boers. "Empirical evidence for recent global shifts in vegetation resilience." Nature Climate Change (2022). [https://doi.org/10.1038/s41558-022-01352-2](https://www.nature.com/articles/s41558-022-01352-2)
 12 | R Hering, M Hauptfleisch, M Jago, **T Smith**, S Kramer-Schadt, J Stiegler, and N Blaum. "Don't stop me now: Managed fence gaps could allow migratory ungulates to track dynamic resources and reduce fence related energy loss." Frontiers in Ecology and Evolution. (2022). [https://doi.org/10.3389/fevo.2022.907079](https://doi.org/10.3389/fevo.2022.907079)
