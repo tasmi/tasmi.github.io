@@ -8,6 +8,8 @@ As part of the [Remote Sensing, geoInformation, and Visualization](https://up-rs
 
 ## Student Theses
 
+8 | Gittu Thampi (2023, MSc Thesis): Identify the animal pathways using a convolutional neural network
+7 | Larissa Cristina De Rezende Magalhaes (2023, MSc Thesis): Use of spaceborne lidar and radar data to analyze the vegetation cover in the Namibian Savannah
 6 | Adeola Obidiya (2022, MSc Thesis): Land-cover Classification and Time Series Analysis of Sentinel-1 and Sentinel-2 Images at Two Contrasting Sites (Northern Treeline vs. Taiga) with Integration of Additional Ground and Satellite Validation Data
 5 | Farid Atmani (2021, MSc Thesis): Canopy height estimation of the Namibian Savanna Forest with ICESat-2 and GEDI missions
 4 | Toni Schmidt (2021, MSc Thesis): Theoretical Potential of Former, Present, and Hypothetical Optical Spaceborne Sensors for the Differentiation of Plastics Using Hyperspectral Analysis

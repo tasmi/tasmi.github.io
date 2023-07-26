@@ -13,6 +13,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Journal Articles
 
+17 | **T Smith** and N Boers. ``Reliability of Vegetation Resilience Estimates Depends on Biomass Density." Nature Ecology and Evolution. \textit{Accepted}
 16 | T Schmidt, T Kuester, **T Smith**, and M Bochow. "Potential of Optical Spaceborne Sensors for the Differentiation of Plastics in the Environment", Remote Sensing 15(8):2020 (2023). [https://doi.org/10.3390/rs15082020](https://doi.org/10.3390/rs15082020)
 15 | **T Smith**, R.-M. Zotta, C. A. Boulton, T. M. Lenton, W. Dorigo, and N. Boers. "Reliability of Resilience Estimation based on Multi-Instrument Time Series", Earth System Dynamics, 14, 173–183, [https://doi.org/10.5194/esd-14-173-2023](https://doi.org/10.5194/esd-14-173-2023), 2023. 
 14 | **T Smith** and N Boers. "Global vegetation resilience linked to water availability and variability." Nature Communications 14, 498 (2023). [https://doi.org/10.1038/s41467-023-36207-7](https://doi.org/10.1038/s41467-023-36207-7)
@@ -37,6 +38,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Data and Software
 
+10 | **T Smith** and N Boers. (2023). Robustness of Global Vegetation Resilience Estimates (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7550255](https://doi.org/10.5281/zenodo.7550255)
 9 | **T Smith** and N Boers. (2023). Global Vegetation Resilience Linked to Water Availability and Variability (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7436669](https://doi.org/10.5281/zenodo.7436669)
 8 | **T Smith** and N Boers. (2022). Reliability of Resilience Estimation based on Multi-Instrument Time Series (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7009414](https://doi.org/10.5281/zenodo.7009414)
 7 | **T Smith**, D Traxl, and N Boers. (2022). Empirical evidence for recent global shifts in vegetation resilience (1.0). Zenodo. [https://doi.org/10.5281/zenodo.5816934](https://doi.org/10.5281/zenodo.5816934)
