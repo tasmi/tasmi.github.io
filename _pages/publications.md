@@ -13,7 +13,8 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Journal Articles
 
-17 | **T Smith** and N Boers. ``Reliability of Vegetation Resilience Estimates Depends on Biomass Density." Nature Ecology & Evolution (2023). [https://doi.org/10.1038/s41559-023-02194-7](https://doi.org/10.1038/s41559-023-02194-7)
+18 | Y Yang, Q You, **T Smith**, R. Kelly, and S. Kang. "Spatiotemporal dipole variations of spring snowmelt over Eurasia." Atmospheric Research (2023). [https://doi.org/10.1016/j.atmosres.2023.107042][https://doi.org/10.1016/j.atmosres.2023.107042]
+17 | **T Smith** and N Boers. "Reliability of Vegetation Resilience Estimates Depends on Biomass Density." Nature Ecology & Evolution (2023). [https://doi.org/10.1038/s41559-023-02194-7](https://doi.org/10.1038/s41559-023-02194-7)
 16 | T Schmidt, T Kuester, **T Smith**, and M Bochow. "Potential of Optical Spaceborne Sensors for the Differentiation of Plastics in the Environment", Remote Sensing 15(8):2020 (2023). [https://doi.org/10.3390/rs15082020](https://doi.org/10.3390/rs15082020)
 15 | **T Smith**, R.-M. Zotta, C. A. Boulton, T. M. Lenton, W. Dorigo, and N. Boers. "Reliability of Resilience Estimation based on Multi-Instrument Time Series", Earth System Dynamics, 14, 173–183, [https://doi.org/10.5194/esd-14-173-2023](https://doi.org/10.5194/esd-14-173-2023), 2023. 
 14 | **T Smith** and N Boers. "Global vegetation resilience linked to water availability and variability." Nature Communications 14, 498 (2023). [https://doi.org/10.1038/s41467-023-36207-7](https://doi.org/10.1038/s41467-023-36207-7)
