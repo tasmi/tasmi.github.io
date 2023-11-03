@@ -13,6 +13,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Journal Articles
 
+19 | L Blaschke, D Nian, S Bathiany, M Ben-Yami, **T Smith**, C Boulton, and N Boers. "Spatial correlation increase in single-sensor satellite data reveals loss of Amazon rainforest resilience. arXiv preprint arXiv:2310.18540 (2023). [https://arxiv.org/abs/2310.18540](https://arxiv.org/abs/2310.18540)
 18 | Y Yang, Q You, **T Smith**, R Kelly, and S Kang. "Spatiotemporal dipole variations of spring snowmelt over Eurasia." Atmospheric Research (2023). [https://doi.org/10.1016/j.atmosres.2023.107042](https://doi.org/10.1016/j.atmosres.2023.107042)
 17 | **T Smith** and N Boers. "Reliability of Vegetation Resilience Estimates Depends on Biomass Density." Nature Ecology & Evolution (2023). [https://doi.org/10.1038/s41559-023-02194-7](https://doi.org/10.1038/s41559-023-02194-7)
 16 | T Schmidt, T Kuester, **T Smith**, and M Bochow. "Potential of Optical Spaceborne Sensors for the Differentiation of Plastics in the Environment", Remote Sensing 15(8):2020 (2023). [https://doi.org/10.3390/rs15082020](https://doi.org/10.3390/rs15082020)
