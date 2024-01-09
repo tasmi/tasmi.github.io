@@ -7,11 +7,6 @@ author_profile: true
 I maintain a set of freely available [Google Earth Engine codes](https://github.com/tasmi/earthengine_code_snippets) written in Python for data pre-processing and analysis tasks. For further research profiles, see my: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAAJ), 
 [ResearchGate](https://www.researchgate.net/profile/Taylor_Smith48), and [ORCID](https://orcid.org/0000-0002-6763-7204)
 
-## Peer Reviewed Book chapters
-
-2 | K Geißler, N Blaum, G von Maltitz, **T Smith**, B Bookhagen, H Wanke, M Hipondoka, E Hamunyelae, D Lohmann, D U Lüdtke, M Mbidzo, M Rauchecker, R Hering, K Irob, B Tietjen, A Marquart, F V Skhosana, T Herkenrath and S Uugulu. "Biodiversity and Ecosystem Functions in Southern African Savanna Rangelands: Threats, Impacts and Solutions." in: von Maltitz, G.P., et al. _Sustainability of Southern African Ecosystems under Global Change_, Ecological Studies, vol 248, 2024. [https://doi.org/10.1007/978-3-031-10948-5_15](https://doi.org/10.1007/978-3-031-10948-5_15)
-1 | **T Smith** and B Bookhagen. "Chapter 7: Remotely sensed rain and snowfall in the Himalaya", in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
-
 ## Peer Reviewed Journal Articles
 
 20 | T M Lenton, J F Abrams, A Bartsch, S Bathiany, C A Boulton, J E Buxton, A Conversi, A M Cunliffe, S Hebden, T Lavergne, B Poulter, A Shepherd, **T Smith**, D Swingedouw, R Winkelmann, and N Boers. "Remotely sensing potential climate change tipping points across scales." Nature Communications 15, 343 (2024). [https://doi.org/10.1038/s41467-023-44609-w](https://doi.org/10.1038/s41467-023-44609-w)
@@ -34,6 +29,11 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 3 | **T Smith** and B Bookhagen. "Assessing uncertainty and sensor biases in passive microwave data across High Mountain Asia", Remote Sensing of Environment 181 (2016): 174-185. [https://doi.org/10.1016/j.rse.2016.03.037](https://doi.org/10.1016/j.rse.2016.03.037)
 2 | **T Smith**, B Bookhagen, and F Cannon. "Improving semi-automated glacier mapping with a multi-method approach: applications in central Asia", The Cryosphere 9.5 (2015): 1747-1759. [https://doi.org/10.5194/tc-9-1747-2015](https://doi.org/10.5194/tc-9-1747-2015)
 1 | W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. "Late Pleistocene Glacial Advances in the Western Tibet Interior", Earth and Planetary Science Letters 381 (2013): 210-221. [https://doi.org/10.1016/j.epsl.2013.08.041](https://doi.org/10.1016/j.epsl.2013.08.041)
+
+## Peer Reviewed Book chapters
+
+2 | K Geißler, N Blaum, G von Maltitz, **T Smith**, B Bookhagen, H Wanke, M Hipondoka, E Hamunyelae, D Lohmann, D U Lüdtke, M Mbidzo, M Rauchecker, R Hering, K Irob, B Tietjen, A Marquart, F V Skhosana, T Herkenrath and S Uugulu. "Biodiversity and Ecosystem Functions in Southern African Savanna Rangelands: Threats, Impacts and Solutions." in: von Maltitz, G.P., et al. _Sustainability of Southern African Ecosystems under Global Change_, Ecological Studies, vol 248, 2024. [https://doi.org/10.1007/978-3-031-10948-5_15](https://doi.org/10.1007/978-3-031-10948-5_15)
+1 | **T Smith** and B Bookhagen. "Chapter 7: Remotely sensed rain and snowfall in the Himalaya", in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
 
 ## Technical Reports
 
