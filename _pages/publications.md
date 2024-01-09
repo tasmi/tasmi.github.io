@@ -9,7 +9,8 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Book chapters
 
-1 | **T Smith** and B Bookhagen. "Chapter 7: Remotely sensed rain and snowfall in the Himalaya'', in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
+2 | K Geißler, N Blaum, G von Maltitz, **T Smith**, B Bookhagen, H Wanke, M Hipondoka, E Hamunyelae, D Lohmann, D U Lüdtke, M Mbidzo, M Rauchecker, R Hering, K Irob, B Tietjen, A Marquart, F V Skhosana, T Herkenrath and S Uugulu. "Biodiversity and Ecosystem Functions in Southern African Savanna Rangelands: Threats, Impacts and Solutions." in: von Maltitz, G.P., et al. _Sustainability of Southern African Ecosystems under Global Change_, Ecological Studies, vol 248, 2024. [https://doi.org/10.1007/978-3-031-10948-5_15](https://doi.org/10.1007/978-3-031-10948-5_15)
+1 | **T Smith** and B Bookhagen. "Chapter 7: Remotely sensed rain and snowfall in the Himalaya", in: Dimri, A.P., Bookhagen, B., Stoffel, M., Yasunari, T. (Eds.): _Himalayan Weather and Climate and their Impact on the Environment_, Springer International Publishing, 2020. [https://www.springer.com/gp/book/9783030296834](https://www.springer.com/gp/book/9783030296834)
 
 ## Peer Reviewed Journal Articles
 
