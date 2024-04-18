@@ -8,6 +8,9 @@ As part of the [Remote Sensing, geoInformation, and Visualization](https://up-rs
 
 ## Student Theses
 
+11 | Stefan Schütz (2024, MSc Thesis): Satellite-Based Lake Area Time Series Analysis on the Central Andean Plateau
+10 | Juan Sebastian Valencia Velasquez (2024, MSc Thesis): Landslide detection using time series of spaceborne Digital Elevation Models and Lidar instruments in the South American Andes
+9 | Stepan Svintsov (2024, MSc Thesis): A systematic assessment of European urban agriculture potential using geoinformation
 8 | Gittu Thampi (2023, MSc Thesis): Identify the animal pathways using a convolutional neural network
 7 | Larissa Cristina De Rezende Magalhaes (2023, MSc Thesis): Use of spaceborne lidar and radar data to analyze the vegetation cover in the Namibian Savannah
 6 | Adeola Obidiya (2022, MSc Thesis): Land-cover Classification and Time Series Analysis of Sentinel-1 and Sentinel-2 Images at Two Contrasting Sites (Northern Treeline vs. Taiga) with Integration of Additional Ground and Satellite Validation Data
