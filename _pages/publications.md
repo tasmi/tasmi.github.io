@@ -9,6 +9,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Journal Articles
 
+21 | S Bathiany, R Bastiaansen, A Bastos, L Blaschke, J Lever, S Loriani, W De Keersmaecker, W Dorigo, M Milenković, C Senf, **T Smith**, J Verbesselt, and N Boers. "Ecosystem Resilience Monitoring and Early Warning Using Earth Observation Data: Challenges and Outlook."  Surveys in Geophys (2024). [https://doi.org/10.1007/s10712-024-09833-z](https://doi.org/10.1007/s10712-024-09833-z)
 20 | T M Lenton, J F Abrams, A Bartsch, S Bathiany, C A Boulton, J E Buxton, A Conversi, A M Cunliffe, S Hebden, T Lavergne, B Poulter, A Shepherd, **T Smith**, D Swingedouw, R Winkelmann, and N Boers. "Remotely sensing potential climate change tipping points across scales." Nature Communications 15, 343 (2024). [https://doi.org/10.1038/s41467-023-44609-w](https://doi.org/10.1038/s41467-023-44609-w)
 19 | L Blaschke, D Nian, S Bathiany, M Ben-Yami, **T Smith**, C Boulton, and N Boers. "Spatial correlation increase in single-sensor satellite data reveals loss of Amazon rainforest resilience. arXiv preprint arXiv:2310.18540 (2023). [https://arxiv.org/abs/2310.18540](https://arxiv.org/abs/2310.18540)
 18 | Y Yang, Q You, **T Smith**, R Kelly, and S Kang. "Spatiotemporal dipole variations of spring snowmelt over Eurasia." Atmospheric Research (2023). [https://doi.org/10.1016/j.atmosres.2023.107042](https://doi.org/10.1016/j.atmosres.2023.107042)
