@@ -6,7 +6,11 @@ author_profile: true
 
 As part of the [Remote Sensing, geoInformation, and Visualization](https://up-rs-esp.github.io/msc-rsiv/) Masters program, I advise student theses. If you have an interesting project that you would like to collaborate on, please get in touch! 
 
-## Student Theses
+## PhD Candidates
+
+1 | Yulong Yang (Expected 2026, visiting from Fudan University): Snowmelt Variations in High Mountain Asia: Characteristics, Mechanisms, and Climate Effects
+
+## BSc and MSc Theses
 
 11 | Stefan Schütz (2024, MSc Thesis): Satellite-Based Lake Area Time Series Analysis on the Central Andean Plateau
 10 | Juan Sebastian Valencia Velasquez (2024, MSc Thesis): Landslide detection using time series of spaceborne Digital Elevation Models and Lidar instruments in the South American Andes
