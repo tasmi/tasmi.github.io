@@ -13,7 +13,9 @@ I have several ongoing research projects based on high-resolution passive microw
 
 I am currently running my own DFG-funded project which builds upon much of my previous work, particularly that which focused on monitoring snow. The "Quantifying the Influence of Snowmelt on River Hydrology in High Mountain Asia (STRIVE)" project focuses on mapping where, when, and how water enters river systems in Nepal. This work will use a combination of GNSS-Reflectometry, satellite data, and in-situ river monitoring. Here is an example time lapse from one of my river monitoring stations, showing the rise and fall of the water throuhgout the year:
 
-![River Time Lapse](https://tasmi.github.io/images/river_subset.gif)
+<p align="center" width="100%">
+    <img width="33%" src="https://tasmi.github.io/images/river_subset.gif">
+</p>
 
 ## Doctoral Work
 
