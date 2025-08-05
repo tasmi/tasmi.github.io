@@ -9,7 +9,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Journal Articles
 
-**2025** |
+| **2025**
 26 | N Boers, T Liu, S Bathiany, M Ben-Yami, L Blaschke, N Bochow, C Boulton, T Lenton, A Morr, D Nian, M Rypdal, and **T Smith**. "Destabilization of Earth system tipping elements." Nature Geoscience. (2025, accepted). 
 25 | **T Smith**, A Morr, B Bookhagen and N Boers. "Predicting Instabilities in Transient Landforms and Interconnected Ecosystems." arXiv (2025). [https://doi.org/10.48550/arXiv.2506.23946](https://doi.org/10.48550/arXiv.2506.23946)
 24 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "The influence of data gaps and outliers on resilience indicators." arXiv (2025). [https://doi.org/10.48550/arXiv.2505.19034](https://doi.org/10.48550/arXiv.2505.19034)
@@ -29,14 +29,15 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 13 | **T Smith**, D Traxl, and N Boers. "Empirical evidence for recent global shifts in vegetation resilience." Nature Climate Change (2022). [https://doi.org/10.1038/s41558-022-01352-2](https://www.nature.com/articles/s41558-022-01352-2)
 12 | R Hering, M Hauptfleisch, M Jago, **T Smith**, S Kramer-Schadt, J Stiegler, and N Blaum. "Don't stop me now: Managed fence gaps could allow migratory ungulates to track dynamic resources and reduce fence related energy loss." Frontiers in Ecology and Evolution (2022). [https://doi.org/10.3389/fevo.2022.907079](https://doi.org/10.3389/fevo.2022.907079)
 11 | F Atmani, B Bookhagen, **T Smith**. "Measuring Vegetation Heights and Their Seasonal Changes in the Western Namibian Savanna Using Spaceborne Lidars." Remote Sensing 14, 2928. (2022). [https://doi.org/10.3390/rs14122928](https://doi.org/10.3390/rs14122928)
-**2013-2021** |
+**2018-2021** |
 10 | **T Smith**, A Rheinwalt, and B Bookhagen. "Topography and Climate in the Upper Indus Basin: Mapping Elevation-Snow Cover Relationships." Science of The Total Environment, 2021, 147363, ISSN 0048-9697. [https://doi.org/10.1016/j.scitotenv.2021.147363](https://doi.org/10.1016/j.scitotenv.2021.147363)
 9 | **T Smith** and B Bookhagen. (2020). "Climatic and Biotic Controls on Topographic Asymmetry at the Global Scale." Journal of Geophysical Research: Earth Surface, 125, e2020JF005692. [https://doi.org/10.1029/2020JF005692](https://doi.org/10.1029/2020JF005692)
 8 | **T Smith** and B Bookhagen. "Assessing Multi-Temporal Snow-Volume Trends in High Mountain Asia From 1987 to 2016 Using High-Resolution Passive Microwave Data." Front. Earth Sci. (2020) 8:559175. [https://doi.org/10.3389/feart.2020.559175](https://doi.org/10.3389/feart.2020.559175)
-7 | **T Smith**, A Rheinwalt, and B Bookhagen. "Determining the Optimal Grid Resolution for Topographic Analysis on an Airborne Lidar Dataset'', Earth Surface Dynamics 7 (2019): 475-489 [https://doi.org/10.5194/esurf-7-475-2019](https://doi.org/10.5194/esurf-7-475-2019)
+7 | **T Smith**, A Rheinwalt, and B Bookhagen. "Determining the Optimal Grid Resolution for Topographic Analysis on an Airborne Lidar Dataset", Earth Surface Dynamics 7 (2019): 475-489 [https://doi.org/10.5194/esurf-7-475-2019](https://doi.org/10.5194/esurf-7-475-2019)
 6 | **T Smith** and B Bookhagen. "Using passive microwave data to understand spatio-temporal trends and dynamics in snow-water storage in High Mountain Asia", Proc. SPIE 10788, Active and Passive Microwave Remote Sensing for Environmental Monitoring II, 1078806 (9 October 2018) [https://doi.org/10.1117/12.2323827](https://doi.org/10.1117/12.2323827)
-5 | **T Smith** and B Bookhagen. "Changes in seasonal snow water equivalent distribution in High Mountain Asia (1987 to 2009)'', Science Advances 4 (2018): 1,  [https://doi.org/10.1126/sciadv.1701550](https://doi.org/10.1126/sciadv.1701550)
-4 | **T Smith**, B Bookhagen, and A Rheinwalt. "Spatio-temporal Patterns of High Mountain Asia's Snowmelt Season Identified with an Automated Snowmelt Detection Algorithm, 1987-2016'', The Cryosphere 11 (2017): 2329-2343, [https://doi.org/10.5194/tc-11-2329-2017](https://doi.org/10.5194/tc-11-2329-2017)
+5 | **T Smith** and B Bookhagen. "Changes in seasonal snow water equivalent distribution in High Mountain Asia (1987 to 2009)", Science Advances 4 (2018): 1,  [https://doi.org/10.1126/sciadv.1701550](https://doi.org/10.1126/sciadv.1701550)
+**2013-2017** |
+4 | **T Smith**, B Bookhagen, and A Rheinwalt. "Spatio-temporal Patterns of High Mountain Asia's Snowmelt Season Identified with an Automated Snowmelt Detection Algorithm, 1987-2016", The Cryosphere 11 (2017): 2329-2343, [https://doi.org/10.5194/tc-11-2329-2017](https://doi.org/10.5194/tc-11-2329-2017)
 3 | **T Smith** and B Bookhagen. "Assessing uncertainty and sensor biases in passive microwave data across High Mountain Asia", Remote Sensing of Environment 181 (2016): 174-185. [https://doi.org/10.1016/j.rse.2016.03.037](https://doi.org/10.1016/j.rse.2016.03.037)
 2 | **T Smith**, B Bookhagen, and F Cannon. "Improving semi-automated glacier mapping with a multi-method approach: applications in central Asia", The Cryosphere 9.5 (2015): 1747-1759. [https://doi.org/10.5194/tc-9-1747-2015](https://doi.org/10.5194/tc-9-1747-2015)
 1 | W Amidon, B Bookhagen, J-P Avouac, **T Smith**, D Rood. "Late Pleistocene Glacial Advances in the Western Tibet Interior", Earth and Planetary Science Letters 381 (2013): 210-221. [https://doi.org/10.1016/j.epsl.2013.08.041](https://doi.org/10.1016/j.epsl.2013.08.041)
