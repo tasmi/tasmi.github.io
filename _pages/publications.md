@@ -9,27 +9,27 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Journal Articles
 
- | **2025**
+**2025** |
 26 | N Boers, T Liu, S Bathiany, M Ben-Yami, L Blaschke, N Bochow, C Boulton, T Lenton, A Morr, D Nian, M Rypdal, and **T Smith**. "Destabilization of Earth system tipping elements." Nature Geoscience. (2025, accepted). 
 25 | **T Smith**, A Morr, B Bookhagen and N Boers. "Predicting Instabilities in Transient Landforms and Interconnected Ecosystems." arXiv (2025). [https://doi.org/10.48550/arXiv.2506.23946](https://doi.org/10.48550/arXiv.2506.23946)
 24 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "The influence of data gaps and outliers on resilience indicators." arXiv (2025). [https://doi.org/10.48550/arXiv.2505.19034](https://doi.org/10.48550/arXiv.2505.19034)
 23 | L Flores, C Nendel, B Bookhagen, J A Oviedo-Reyes, **T Smith**, and G Ghazaryan. "The potential of Sentinel-1 time series for large-scale assessment of maize and wheat phenology across Germany". GIScience & Remote Sensing, 62(1) (2025). [https://doi.org/10.1080/15481603.2025.2531593](https://doi.org/10.1080/15481603.2025.2531593)
 22 | Y Su, C Zhang, A Cescatti, K Yu, P Ciais, **T Smith**, J Shang, J Carnicer, J Liu, JM Chen, J K Green, J Wu, G E Ponce-Campos, Y Zhang, Z Zuo, J Liao, J Wu, R Lafortezza, K Yan, X Yang, L Liu, J Ren, W Yuan, X Chen, C Wu, and W Zhou. "Pervasive but biome-dependent relationship between fragmentation and resilience in forests." Nature Ecology & Evolution (2025). [https://doi.org/10.1038/s41559-025-02776-7](https://doi.org/10.1038/s41559-025-02776-7)
- | **2024**
+**2024** |
 21 | L Blaschke, D Nian, S Bathiany, M Ben-Yami, **T Smith**, C Boulton, and N Boers. "Spatial correlation increase in single-sensor satellite data reveals loss of Amazon rainforest resilience." Earth's Future, 12, e2023EF004040  (2024). [https://doi.org/10.1029/2023EF004040](https://doi.org/10.1029/2023EF004040)
 20 | S Bathiany, R Bastiaansen, A Bastos, L Blaschke, J Lever, S Loriani, W De Keersmaecker, W Dorigo, M Milenković, C Senf, **T Smith**, J Verbesselt, and N Boers. "Ecosystem Resilience Monitoring and Early Warning Using Earth Observation Data: Challenges and Outlook."  Surveys in Geophysics (2024). [https://link.springer.com/article/10.1007/s10712-024-09833-z](https://link.springer.com/article/10.1007/s10712-024-09833-z)
 19 | T M Lenton, J F Abrams, A Bartsch, S Bathiany, C A Boulton, J E Buxton, A Conversi, A M Cunliffe, S Hebden, T Lavergne, B Poulter, A Shepherd, **T Smith**, D Swingedouw, R Winkelmann, and N Boers. "Remotely sensing potential climate change tipping points across scales." Nature Communications 15, 343 (2024). [https://doi.org/10.1038/s41467-023-44609-w](https://doi.org/10.1038/s41467-023-44609-w)
- | **2023**
+**2023** |
 18 | Y Yang, Q You, **T Smith**, R Kelly, and S Kang. "Spatiotemporal dipole variations of spring snowmelt over Eurasia." Atmospheric Research (2023). [https://doi.org/10.1016/j.atmosres.2023.107042](https://doi.org/10.1016/j.atmosres.2023.107042)
 17 | **T Smith** and N Boers. "Reliability of Vegetation Resilience Estimates Depends on Biomass Density." Nature Ecology & Evolution (2023). [https://doi.org/10.1038/s41559-023-02194-7](https://doi.org/10.1038/s41559-023-02194-7)
 16 | T Schmidt, T Kuester, **T Smith**, and M Bochow. "Potential of Optical Spaceborne Sensors for the Differentiation of Plastics in the Environment", Remote Sensing 15(8):2020 (2023). [https://doi.org/10.3390/rs15082020](https://doi.org/10.3390/rs15082020)
 15 | **T Smith**, R.-M. Zotta, C. A. Boulton, T. M. Lenton, W. Dorigo, and N. Boers. "Reliability of Resilience Estimation based on Multi-Instrument Time Series", Earth System Dynamics, 14, 173–183, [https://doi.org/10.5194/esd-14-173-2023](https://doi.org/10.5194/esd-14-173-2023), 2023. 
 14 | **T Smith** and N Boers. "Global vegetation resilience linked to water availability and variability." Nature Communications 14, 498 (2023). [https://doi.org/10.1038/s41467-023-36207-7](https://doi.org/10.1038/s41467-023-36207-7)
- | **2022**
+**2022** |
 13 | **T Smith**, D Traxl, and N Boers. "Empirical evidence for recent global shifts in vegetation resilience." Nature Climate Change (2022). [https://doi.org/10.1038/s41558-022-01352-2](https://www.nature.com/articles/s41558-022-01352-2)
 12 | R Hering, M Hauptfleisch, M Jago, **T Smith**, S Kramer-Schadt, J Stiegler, and N Blaum. "Don't stop me now: Managed fence gaps could allow migratory ungulates to track dynamic resources and reduce fence related energy loss." Frontiers in Ecology and Evolution (2022). [https://doi.org/10.3389/fevo.2022.907079](https://doi.org/10.3389/fevo.2022.907079)
 11 | F Atmani, B Bookhagen, **T Smith**. "Measuring Vegetation Heights and Their Seasonal Changes in the Western Namibian Savanna Using Spaceborne Lidars." Remote Sensing 14, 2928. (2022). [https://doi.org/10.3390/rs14122928](https://doi.org/10.3390/rs14122928)
- | **2013-2021**
+**2013-2021** |
 10 | **T Smith**, A Rheinwalt, and B Bookhagen. "Topography and Climate in the Upper Indus Basin: Mapping Elevation-Snow Cover Relationships." Science of The Total Environment, 2021, 147363, ISSN 0048-9697. [https://doi.org/10.1016/j.scitotenv.2021.147363](https://doi.org/10.1016/j.scitotenv.2021.147363)
 9 | **T Smith** and B Bookhagen. (2020). "Climatic and Biotic Controls on Topographic Asymmetry at the Global Scale." Journal of Geophysical Research: Earth Surface, 125, e2020JF005692. [https://doi.org/10.1029/2020JF005692](https://doi.org/10.1029/2020JF005692)
 8 | **T Smith** and B Bookhagen. "Assessing Multi-Temporal Snow-Volume Trends in High Mountain Asia From 1987 to 2016 Using High-Resolution Passive Microwave Data." Front. Earth Sci. (2020) 8:559175. [https://doi.org/10.3389/feart.2020.559175](https://doi.org/10.3389/feart.2020.559175)
