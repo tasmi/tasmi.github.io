@@ -10,6 +10,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 ## Peer Reviewed Journal Articles
 
 | **2025**
+27 | **T Smith** and B Bookhagen. "Strongly Heterogeneous Surface-Water Warming Trends in High Mountain Asia." Geogphysical Research Letters (2025, accepted). 
 26 | **T Smith**, A Morr, B Bookhagen and N Boers. "Predicting Instabilities in Transient Landforms and Interconnected Ecosystems." arXiv (2025). [https://doi.org/10.48550/arXiv.2506.23946](https://doi.org/10.48550/arXiv.2506.23946)
 25 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "The influence of data gaps and outliers on resilience indicators." arXiv (2025). [https://doi.org/10.48550/arXiv.2505.19034](https://doi.org/10.48550/arXiv.2505.19034)
 24 | N Boers, T Liu, S Bathiany, M Ben-Yami, L Blaschke, N Bochow, C Boulton, T Lenton, A Morr, D Nian, M Rypdal, and **T Smith**. "Destabilization of Earth system tipping elements." Nature Geoscience. (2025). [https://doi.org/10.1038/s41561-025-01787-0](https://doi.org/10.1038/s41561-025-01787-0) 
