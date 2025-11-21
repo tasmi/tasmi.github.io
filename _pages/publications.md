@@ -10,9 +10,10 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 ## Peer Reviewed Journal Articles
 
 | **2025**
-27 | **T Smith** and B Bookhagen. "Strongly Heterogeneous Surface-Water Warming Trends in High Mountain Asia." Geogphysical Research Letters (2025, accepted). 
-26 | **T Smith**, A Morr, B Bookhagen and N Boers. "Predicting Instabilities in Transient Landforms and Interconnected Ecosystems." arXiv (2025). [https://doi.org/10.48550/arXiv.2506.23946](https://doi.org/10.48550/arXiv.2506.23946)
-25 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "The influence of data gaps and outliers on resilience indicators." arXiv (2025). [https://doi.org/10.48550/arXiv.2505.19034](https://doi.org/10.48550/arXiv.2505.19034)
+27 | **T Smith**, A Morr, B Bookhagen and N Boers. "Predicting Instabilities in Transient Landforms and Interconnected Ecosystems." arXiv (2025). [https://doi.org/10.48550/arXiv.2506.23946](https://doi.org/10.48550/arXiv.2506.23946)
+26 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "The influence of data gaps and outliers on resilience indicators." arXiv (2025). [https://doi.org/10.48550/arXiv.2505.19034](https://doi.org/10.48550/arXiv.2505.19034)
+25 | **T Smith** and B Bookhagen. "Strongly Heterogeneous Surface-Water Warming Trends in High Mountain Asia." Geophysical Research Letters, 52,
+e2025GL119418. [https://doi.org/10.1029/2025GL119418](https://doi.org/10.1029/2025GL119418)
 24 | N Boers, T Liu, S Bathiany, M Ben-Yami, L Blaschke, N Bochow, C Boulton, T Lenton, A Morr, D Nian, M Rypdal, and **T Smith**. "Destabilization of Earth system tipping elements." Nature Geoscience. (2025). [https://doi.org/10.1038/s41561-025-01787-0](https://doi.org/10.1038/s41561-025-01787-0) 
 23 | L Flores, C Nendel, B Bookhagen, J A Oviedo-Reyes, **T Smith**, and G Ghazaryan. "The potential of Sentinel-1 time series for large-scale assessment of maize and wheat phenology across Germany". GIScience & Remote Sensing, 62(1) (2025). [https://doi.org/10.1080/15481603.2025.2531593](https://doi.org/10.1080/15481603.2025.2531593)
 22 | Y Su, C Zhang, A Cescatti, K Yu, P Ciais, **T Smith**, J Shang, J Carnicer, J Liu, JM Chen, J K Green, J Wu, G E Ponce-Campos, Y Zhang, Z Zuo, J Liao, J Wu, R Lafortezza, K Yan, X Yang, L Liu, J Ren, W Yuan, X Chen, C Wu, and W Zhou. "Pervasive but biome-dependent relationship between fragmentation and resilience in forests." Nature Ecology & Evolution (2025). [https://doi.org/10.1038/s41559-025-02776-7](https://doi.org/10.1038/s41559-025-02776-7)
