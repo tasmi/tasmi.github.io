@@ -56,11 +56,13 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Data and Software
 
+| **2021-2025**
 11 | **T Smith** and B Bookhagen (2025). Surface-Water Temperature Trends over High Mountain Asia [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17630152](https://doi.org/10.5281/zenodo.17630152)
 10 | **T Smith** and N Boers. (2023). Robustness of Global Vegetation Resilience Estimates (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7550255](https://doi.org/10.5281/zenodo.7550255)
 9 | **T Smith** and N Boers. (2023). Global Vegetation Resilience Linked to Water Availability and Variability (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7436669](https://doi.org/10.5281/zenodo.7436669)
 8 | **T Smith** and N Boers. (2022). Reliability of Resilience Estimation based on Multi-Instrument Time Series (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7009414](https://doi.org/10.5281/zenodo.7009414)
 7 | **T Smith**, D Traxl, and N Boers. (2022). Empirical evidence for recent global shifts in vegetation resilience (1.0). Zenodo. [https://doi.org/10.5281/zenodo.5816934](https://doi.org/10.5281/zenodo.5816934)
+| **2017-2021**
 6 | **T Smith** and B Bookhagen (2021). Elevation-Snow Clusters for Glaciers and Watersheds in the Upper Indus Basin Region (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4469473](https://doi.org/10.5281/zenodo.4469473)
 5 | **T Smith** and B Bookhagen (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
 4 | **T Smith** (2020). Hillslope Asymmetry: Initial Release. Zenodo. [https://doi.org/10.5281/zenodo.3839251](https://doi.org/10.5281/zenodo.3839251)	
