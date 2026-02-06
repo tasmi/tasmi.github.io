@@ -12,7 +12,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 | **Preprints**
 27 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "The influence of data gaps and outliers on resilience indicators." arXiv (2025). [https://doi.org/10.48550/arXiv.2505.19034](https://doi.org/10.48550/arXiv.2505.19034)
 | **2026**
-26 | **T Smith**, A Morr, B Bookhagen and N Boers. "Predicting Instabilities in Transient Landforms and Interconnected Ecosystems." Nature Communications (accepted 2026). [https://doi.org/10.48550/arXiv.2506.23946](https://doi.org/10.48550/arXiv.2506.23946)
+26 | **T Smith**, A Morr, B Bookhagen, and N Boers. "Predicting instabilities in transient landforms and interconnected ecosystems." Nat Commun 17, 1316 (2026). [https://doi.org/10.1038/s41467-026-68944-w](https://doi.org/10.1038/s41467-026-68944-w)
 | **2025**
 25 | **T Smith** and B Bookhagen. "Strongly Heterogeneous Surface-Water Warming Trends in High Mountain Asia." Geophysical Research Letters (2025). [https://doi.org/10.1029/2025GL119418](https://doi.org/10.1029/2025GL119418)
 24 | N Boers, T Liu, S Bathiany, M Ben-Yami, L Blaschke, N Bochow, C Boulton, T Lenton, A Morr, D Nian, M Rypdal, and **T Smith**. "Destabilization of Earth system tipping elements." Nature Geoscience. (2025). [https://doi.org/10.1038/s41561-025-01787-0](https://doi.org/10.1038/s41561-025-01787-0) 
