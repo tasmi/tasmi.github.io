@@ -11,7 +11,7 @@ redirect_from:
 
 | Year | Position |
 |:----:|:--------:|
-| Since Feb. 2018 | Postdoctoral Researcher and Instructor, Earth Remote Sensing, Uni. Potsdam, Potsdam, Germany |
+| Since Feb. 2018 | Research Scientist and Lecturer, Earth Remote Sensing, Uni. Potsdam, Potsdam, Germany |
 | 2014 -- 2018 | PhD Candidate and Teaching Assistant, Uni. Potsdam, Potsdam, Germany |
 | 2013 -- 2018 | Independent Consultant, Climate Hazard Analysis for International Development |
 | Summer 2013  | Natural Hazards Research Fellow, Earth Research Insitute, UC Santa Barbara |
