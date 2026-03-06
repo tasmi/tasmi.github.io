@@ -10,6 +10,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 ## Peer Reviewed Journal Articles
 
 | **Preprints**
+28 | **T Smith** and B Bookhagen. "Discharge Deficits in the Nepali Himalaya Linked to Greening and Warming." EarthArXiv (2026). [https://doi.org/10.31223/X5TN25](https://doi.org/10.31223/X5TN25)
 27 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "The influence of data gaps and outliers on resilience indicators." arXiv (2025). [https://doi.org/10.48550/arXiv.2505.19034](https://doi.org/10.48550/arXiv.2505.19034)
 | **2026**
 26 | **T Smith**, A Morr, B Bookhagen, and N Boers. "Predicting instabilities in transient landforms and interconnected ecosystems." Nature Communications 17, 1316 (2026). [https://doi.org/10.1038/s41467-026-68944-w](https://doi.org/10.1038/s41467-026-68944-w)
