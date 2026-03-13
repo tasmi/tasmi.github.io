@@ -23,4 +23,4 @@ I am involved with the [Remote Sensing, geoInformation, and Visualization](https
 
 **Software** 
 
-I aim to make all of my publication software open-source (see [here](https://tasmi.github.io/publications/)), and maintain some useful code snippets on [github](https://github.com/tasmi). In particular I maintain a constantly updated set of codes for Google Earth Engine, which I use extensively in my research and teaching. 
+I aim to make all of my publication software open-source (see [here](https://tasmi.github.io/publications/)), and maintain some useful code snippets on [github](https://github.com/tasmi). In particular I maintain a constantly updated set of codes for Google Earth Engine, which I use extensively in my research and teaching. I also publish work on low-cost environmental sensors on github: [https://github.com/UP-RS-ESP/LowCostSensors](https://github.com/UP-RS-ESP/LowCostSensors)
