@@ -12,6 +12,7 @@ As part of the [Remote Sensing, geoInformation, and Visualization](https://up-rs
 
 ## BSc and MSc Theses
 
+12 | Anton Schulte-Fischedick (Expected 2026, MSc Thesis): Resilience Change in Southern American Tropical Dry Forests
 11 | Stefan Schütz (2024, MSc Thesis): Satellite-Based Lake Area Time Series Analysis on the Central Andean Plateau
 10 | Juan Sebastian Valencia Velasquez (2024, MSc Thesis): Landslide detection using time series of spaceborne Digital Elevation Models and Lidar instruments in the South American Andes
 9 | Stepan Svintsov (2024, MSc Thesis): A systematic assessment of European urban agriculture potential using geoinformation
