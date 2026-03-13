@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-I maintain a set of freely available [Google Earth Engine codes](https://github.com/tasmi/earthengine_code_snippets) written in Python for data pre-processing and analysis tasks. For further research profiles, see my: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAAJ), 
+I maintain a set of freely available [Google Earth Engine codes](https://github.com/tasmi/earthengine_code_snippets) written in Python for data pre-processing and analysis tasks. I also maintain a set of codes and instructions for building low-cost environmental sensors. Full instructions can be found here: [link](https://github.com/UP-RS-ESP/LowCostSensors). For further research profiles, see my: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAAJ), 
 [ResearchGate](https://www.researchgate.net/profile/Taylor_Smith48), and [ORCID](https://orcid.org/0000-0002-6763-7204) pages.
 
 ## Peer Reviewed Journal Articles
