@@ -13,7 +13,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 29 | **T Smith** and B Bookhagen. "Discharge Deficits in the Nepali Himalaya Linked to Greening and Warming." EarthArXiv (2026). [https://doi.org/10.31223/X5TN25](https://doi.org/10.31223/X5TN25)
 | **2026**
 28 | J Wang, ... **T Smith**... et al. "The safety margin of small-scale tree cover loss in global forests." Nature Communications (accepted 2026). 
-27 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "Data gaps and outliers distort critical slowing down-based resilience indicators." Science Advances (accepted 2026). Preprint link: [https://doi.org/10.48550/arXiv.2505.19034](https://doi.org/10.48550/arXiv.2505.19034)
+27 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "Data gaps and outliers distort critical slowing down-based resilience indicators." Science Advances 12, eaee1916 (2026). [https://doi.org/10.1126/sciadv.aee1916](https://doi.org/10.1126/sciadv.aee1916)
 26 | **T Smith**, A Morr, B Bookhagen, and N Boers. "Predicting instabilities in transient landforms and interconnected ecosystems." Nature Communications 17, 1316 (2026). [https://doi.org/10.1038/s41467-026-68944-w](https://doi.org/10.1038/s41467-026-68944-w)
 | **2025**
 25 | **T Smith** and B Bookhagen. "Strongly Heterogeneous Surface-Water Warming Trends in High Mountain Asia." Geophysical Research Letters (2025). [https://doi.org/10.1029/2025GL119418](https://doi.org/10.1029/2025GL119418)
@@ -59,13 +59,15 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Data and Software
 
+| **2026**
+13 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, & N Boers (2026). Data gaps and outliers distort critical slowing down-based resilience indicators. Zenodo. [https://doi.org/10.5281/zenodo.18492399](https://doi.org/10.5281/zenodo.18492399)
 | **2021-2025**
-12 | **T Smith**. (2025). Predicting Instabilities in Transient Landforms and Interconnected Ecosystems. Zenodo.  [https://doi.org/10.5281/zenodo.18031340](https://doi.org/10.5281/zenodo.18031340)
+12 | **T Smith** (2025). Predicting Instabilities in Transient Landforms and Interconnected Ecosystems. Zenodo.  [https://doi.org/10.5281/zenodo.18031340](https://doi.org/10.5281/zenodo.18031340)
 11 | **T Smith** and B Bookhagen (2025). Surface-Water Temperature Trends over High Mountain Asia [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17630152](https://doi.org/10.5281/zenodo.17630152)
-10 | **T Smith** and N Boers. (2023). Robustness of Global Vegetation Resilience Estimates (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7550255](https://doi.org/10.5281/zenodo.7550255)
-9 | **T Smith** and N Boers. (2023). Global Vegetation Resilience Linked to Water Availability and Variability (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7436669](https://doi.org/10.5281/zenodo.7436669)
-8 | **T Smith** and N Boers. (2022). Reliability of Resilience Estimation based on Multi-Instrument Time Series (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7009414](https://doi.org/10.5281/zenodo.7009414)
-7 | **T Smith**, D Traxl, and N Boers. (2022). Empirical evidence for recent global shifts in vegetation resilience (1.0). Zenodo. [https://doi.org/10.5281/zenodo.5816934](https://doi.org/10.5281/zenodo.5816934)
+10 | **T Smith** and N Boers (2023). Robustness of Global Vegetation Resilience Estimates (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7550255](https://doi.org/10.5281/zenodo.7550255)
+9 | **T Smith** and N Boers (2023). Global Vegetation Resilience Linked to Water Availability and Variability (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7436669](https://doi.org/10.5281/zenodo.7436669)
+8 | **T Smith** and N Boers (2022). Reliability of Resilience Estimation based on Multi-Instrument Time Series (1.0). Zenodo. [https://doi.org/10.5281/zenodo.7009414](https://doi.org/10.5281/zenodo.7009414)
+7 | **T Smith**, D Traxl, and N Boers (2022). Empirical evidence for recent global shifts in vegetation resilience (1.0). Zenodo. [https://doi.org/10.5281/zenodo.5816934](https://doi.org/10.5281/zenodo.5816934)
 | **2017-2021**
 6 | **T Smith** and B Bookhagen (2021). Elevation-Snow Clusters for Glaciers and Watersheds in the Upper Indus Basin Region (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4469473](https://doi.org/10.5281/zenodo.4469473)
 5 | **T Smith** and B Bookhagen (2020). Global Climatic, Biotic, and Topographic Asymmetries (Version v1.0). Zenodo. [https://doi.org/10.5281/zenodo.4019109](https://doi.org/10.5281/zenodo.4019109)
