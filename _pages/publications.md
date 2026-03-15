@@ -59,7 +59,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Data and Software
 
-| **2026**
+| **2026-**
 13 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, & N Boers (2026). Data gaps and outliers distort critical slowing down-based resilience indicators. Zenodo. [https://doi.org/10.5281/zenodo.18492399](https://doi.org/10.5281/zenodo.18492399)
 | **2021-2025**
 12 | **T Smith** (2025). Predicting Instabilities in Transient Landforms and Interconnected Ecosystems. Zenodo.  [https://doi.org/10.5281/zenodo.18031340](https://doi.org/10.5281/zenodo.18031340)
