@@ -12,7 +12,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 | **Preprints**
 29 | **T Smith** and B Bookhagen. "Discharge Deficits in the Nepali Himalaya Linked to Greening and Warming." EarthArXiv (2026). [https://doi.org/10.31223/X5TN25](https://doi.org/10.31223/X5TN25)
 | **2026**
-28 | Y Su, J Wang, C Zhang, Y Pan, P Ciais, **T Smith**, J Shang, J Liu, J Chen, A Cescatti, Y Zhang, W Laurance, C Senf, Z Zuo, J Liao, R Lafortezza, K Yan, P Zhu, X Guan, X Li, M Xue, W Yuan, W Zhou, and X Chen. "The safety margin of small-scale tree cover loss in global forests." Nature Communications (accepted 2026). 
+28 | J Wang, C Zhang, Y Pan, Y Su, P Ciais, **T Smith**, J Shang, J Liu, J M Chen, A Cescatti, Y Zhang, W F Laurance, C Senf, Z Zuo, J Liao, R Lafortezza, K Yan, P Zhu, X Guan, X Li, M Xue, W Yuan, X Chen & W Zhou. "The safety margin of small-scale tree cover loss in global fragmented forests." Nature Communications (2026). [https://doi.org/10.1038/s41467-026-71480-2](https://doi.org/10.1038/s41467-026-71480-2)
 27 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, and N Boers. "Data gaps and outliers distort critical slowing down-based resilience indicators." Science Advances 12, eaee1916 (2026). [https://doi.org/10.1126/sciadv.aee1916](https://doi.org/10.1126/sciadv.aee1916)
 26 | **T Smith**, A Morr, B Bookhagen, and N Boers. "Predicting instabilities in transient landforms and interconnected ecosystems." Nature Communications 17, 1316 (2026). [https://doi.org/10.1038/s41467-026-68944-w](https://doi.org/10.1038/s41467-026-68944-w)
 | **2025**
