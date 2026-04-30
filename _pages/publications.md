@@ -10,8 +10,8 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 ## Peer Reviewed Journal Articles
 
 | **Preprints**
-31 | **T Smith**, A Morr, C Schötz, and N Boers. "Estimating the Resilience of Non-Stationary Systems." arXiv (2026). [https://doi.org/10.48550/arXiv.2604.24345](https://doi.org/10.48550/arXiv.2604.24345)
-30 | **T Smith** and B Bookhagen. "Discharge Deficits in the Nepali Himalaya Linked to Greening and Warming." EarthArXiv (2026). [https://doi.org/10.31223/X5TN25](https://doi.org/10.31223/X5TN25)
+* | **T Smith**, A Morr, C Schötz, and N Boers. "Estimating the Resilience of Non-Stationary Systems." arXiv (2026). [https://doi.org/10.48550/arXiv.2604.24345](https://doi.org/10.48550/arXiv.2604.24345)
+* | **T Smith** and B Bookhagen. "Discharge Deficits in the Nepali Himalaya Linked to Greening and Warming." EarthArXiv (2026). [https://doi.org/10.31223/X5TN25](https://doi.org/10.31223/X5TN25)
 | **2026**
 29 | S Svintsov, P Pradhan, **T Smith**, and D Rybski. "Integrating agriculture into European urban landscapes matters: A systematic assessment." Sustainable Cities and Society (2026). [https://doi.org/10.1016/j.scs.2026.107422](https://doi.org/10.1016/j.scs.2026.107422)
 28 | J Wang, C Zhang, Y Pan, Y Su, P Ciais, **T Smith**, J Shang, J Liu, J M Chen, A Cescatti, Y Zhang, W F Laurance, C Senf, Z Zuo, J Liao, R Lafortezza, K Yan, P Zhu, X Guan, X Li, M Xue, W Yuan, X Chen & W Zhou. "The safety margin of small-scale tree cover loss in global fragmented forests." Nature Communications (2026). [https://doi.org/10.1038/s41467-026-71480-2](https://doi.org/10.1038/s41467-026-71480-2)
