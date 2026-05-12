@@ -19,7 +19,7 @@ My ongoing research is focused on monitoring global vegetation systems, quantify
 
 **Teaching**
 
-I am involved with the [Remote Sensing, geoInformation, and Visualization](https://up-rs-esp.github.io/msc-rsiv/) Masters program at the University of Potsdam, where I teach quantitative data analysis and remote sensing courses. A particular focus is on efficiently analysing very large remotely sensed datasets using online (e.g. Google Earth Engine) and offline (high-performance computing) approaches. I use the Python programming language extensively in my teaching and research. 
+I am involved with the [Remote Sensing, geoInformation, and Visualization](https://up-rs-esp.github.io/msc-rsiv/) Masters program at the University of Potsdam, where I teach quantitative data analysis and remote sensing courses. A particular focus is on efficiently analyzing very large remotely sensed datasets using online (e.g. Google Earth Engine) and offline (high-performance computing) approaches. I use the Python programming language extensively in my teaching and research. 
 
 **Software** 
 
