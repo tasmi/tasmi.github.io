@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Current Projects
-
 My research broadly focuses on studying how ecosystems are adapting and changing in response to climate. This covers a broad range of topics, from long-term [landscape evolution](https://doi.org/10.1029/2020JF005692) to seasonal-scale [discharge variability](https://doi.org/10.31223/X5TN25) to the [resilience of vegetated ecosystems](https://www.nature.com/articles/s41558-022-01352-2).
 
 ## Quantifying the Stability of Global Ecosystems
