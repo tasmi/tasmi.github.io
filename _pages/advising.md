@@ -12,6 +12,7 @@ As part of the [Remote Sensing, geoInformation, and Visualization](https://up-rs
 
 ## BSc and MSc Theses
 
+13 | Nell Wassermann (Expected 2026, MSc Thesis): Estimation of Ice-Dammed Lake Drainage Volumes Using Surface Water and Ocean Topography (SWOT) Data
 12 | Anton Schulte-Fischedick (Expected 2026, MSc Thesis): Resilience Change in Southern American Tropical Dry Forests
 11 | Stefan Schütz (2024, MSc Thesis): Satellite-Based Lake Area Time Series Analysis on the Central Andean Plateau
 10 | Juan Sebastian Valencia Velasquez (2024, MSc Thesis): Landslide detection using time series of spaceborne Digital Elevation Models and Lidar instruments in the South American Andes
