@@ -63,6 +63,7 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 ## Data and Software
 
 | **2026-**
+15 | **T Smith** (2026). Discharge Deficits in the Central Himalaya Linked to Greening and Warming. Zenodo. [https://doi.org/10.5281/zenodo.21493187](https://doi.org/10.5281/zenodo.21493187)
 14 | **T Smith** (2026). Estimating the Resilience of Non-Stationary Systems. Zenodo. [https://doi.org/10.5281/zenodo.19731233](https://doi.org/10.5281/zenodo.19731233)
 13 | T Liu, A Morr, S Bathiany, L Blaschke, Z Qian, C Diao, **T Smith**, & N Boers (2026). Data gaps and outliers distort critical slowing down-based resilience indicators. Zenodo. [https://doi.org/10.5281/zenodo.18492399](https://doi.org/10.5281/zenodo.18492399)
 | **2021-2025**
