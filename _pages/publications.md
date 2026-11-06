@@ -9,9 +9,8 @@ I maintain a set of freely available [Google Earth Engine codes](https://github.
 
 ## Peer Reviewed Journal Articles
 
-| **Preprints**
-* | **T Smith**, A Morr, C Schötz, and N Boers. "Estimating the Resilience of Non-Stationary Systems." arXiv (accepted, 2026). [https://doi.org/10.48550/arXiv.2604.24345](https://doi.org/10.48550/arXiv.2604.24345)
 | **2026**
+32 | **T Smith**, A Morr, C Schötz, and N Boers. "Estimating the Resilience of Non-Stationary Systems." Nature Communications 17, 11286 (2026). [https://doi.org/10.1038/s41467-026-78489-7](https://doi.org/10.1038/s41467-026-78489-7)
 31 | **T Smith** and B Bookhagen. "Discharge deficits in the Central Himalaya linked to greening and warming." Scientific Reports (2026). [https://doi.org/10.1038/s41598-026-68997-3](https://doi.org/10.1038/s41598-026-68997-3)
 30 | S Ma, S Zhou, D Ellison, A Staal, **T Smith**, C Smith, and A J Teuling. "Targeted tropical forest restoration can offset deforestation-induced water flux losses." Nature Climate Change (2026). [https://doi.org/10.1038/s41558-026-02709-7](https://doi.org/10.1038/s41558-026-02709-7)
 29 | S Svintsov, P Pradhan, **T Smith**, and D Rybski. "Integrating agriculture into European urban landscapes matters: A systematic assessment." Sustainable Cities and Society (2026). [https://doi.org/10.1016/j.scs.2026.107422](https://doi.org/10.1016/j.scs.2026.107422)
